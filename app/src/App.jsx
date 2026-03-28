@@ -1,5 +1,6 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect } from "react";
 import ElectionMap from "./ElectionMap";
+import ComparisonMap from "./ComparisonMap";
 import "./App.css";
 
 const PARTI_COLORS = {
@@ -23,6 +24,9 @@ export default function App() {
   const [mode, setMode] = useState("partis");
   const [valueMode, setValueMode] = useState("percentage");
   const [scaleMode, setScaleMode] = useState("compared");
+  const [view, setView] = useState("all");
+  const [fromYear, setFromYear] = useState(2014);
+  const [toYear, setToYear] = useState(2026);
 
   useEffect(() => {
     async function loadPartis() {
@@ -56,6 +60,35 @@ export default function App() {
       <header>
         <h1>Nantes - Analyse des votes</h1>
         <div className="controls">
+          <div className="control-group">
+            <label>Vue :</label>
+            <button
+              className={view === "all" ? "active" : ""}
+              onClick={() => setView("all")}
+            >
+              Toutes
+            </button>
+            <button
+              className={view === "comparison" ? "active" : ""}
+              onClick={() => setView("comparison")}
+            >
+              Comparaison
+            </button>
+          </div>
+
+          {view === "comparison" && (
+            <div className="control-group">
+              <label>De :</label>
+              <select value={fromYear} onChange={(e) => setFromYear(Number(e.target.value))}>
+                {YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
+              </select>
+              <label>A :</label>
+              <select value={toYear} onChange={(e) => setToYear(Number(e.target.value))}>
+                {YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
+              </select>
+            </div>
+          )}
+
           <div className="control-group">
             <label>Tour :</label>
             <button
@@ -144,40 +177,65 @@ export default function App() {
         </div>
       </header>
 
-      <div className="maps-container">
-        {YEARS.map((year) => (
-          <ElectionMap
-            key={year}
-            year={year}
+      {view === "all" ? (
+        <div className="maps-container">
+          {YEARS.map((year) => (
+            <ElectionMap
+              key={year}
+              year={year}
+              round={round}
+              selectedPartis={mode === "partis" ? selectedPartis : []}
+              mode={mode}
+              valueMode={valueMode}
+              scaleMode={scaleMode}
+            />
+          ))}
+        </div>
+      ) : (
+        <div className="maps-container single">
+          <ComparisonMap
+            fromYear={fromYear}
+            toYear={toYear}
             round={round}
             selectedPartis={mode === "partis" ? selectedPartis : []}
             mode={mode}
             valueMode={valueMode}
             scaleMode={scaleMode}
           />
-        ))}
-      </div>
+        </div>
+      )}
 
-      <div className="legend">
-        <span>{valueMode === "absolute" ? "0" : "0%"}</span>
-        <div
-          className="legend-bar"
-          style={{
-            background: mode === "participation" || selectedPartis.length === 0
-              ? "linear-gradient(to right, white, black)"
-              : selectedPartis.length === 1
-                ? `linear-gradient(to right, white, ${PARTI_COLORS[selectedPartis[0]] || "#000"})`
-                : `linear-gradient(to right, white, ${selectedPartis.map((p) => PARTI_COLORS[p] || "#000").join(", ")})`,
-          }}
-        />
-        <span>
-          {scaleMode === "relative"
-            ? "meilleur bureau"
-            : valueMode === "absolute"
-              ? "max voix"
-              : "100%"}
-        </span>
-      </div>
+      {view === "comparison" ? (
+        <div className="legend">
+          <span className="legend-label-neg">{valueMode === "absolute" ? "- voix" : "- pp"}</span>
+          <div
+            className="legend-bar"
+            style={{ background: "linear-gradient(to right, rgb(220,40,40), white, rgb(0,180,0))" }}
+          />
+          <span className="legend-label-pos">{valueMode === "absolute" ? "+ voix" : "+ pp"}</span>
+        </div>
+      ) : (
+        <div className="legend">
+          <span>{valueMode === "absolute" ? "0" : "0%"}</span>
+          <div
+            className="legend-bar"
+            style={{
+              background: mode === "participation" || selectedPartis.length === 0
+                ? "linear-gradient(to right, white, black)"
+                : selectedPartis.length === 1
+                  ? `linear-gradient(to right, white, ${PARTI_COLORS[selectedPartis[0]] || "#000"})`
+                  : `linear-gradient(to right, white, ${selectedPartis.map((p) => PARTI_COLORS[p] || "#000").join(", ")})`,
+            }}
+          />
+          <span>
+            {scaleMode === "relative"
+              ? "meilleur bureau"
+              : valueMode === "absolute"
+                ? "max voix"
+                : "100%"}
+          </span>
+        </div>
+      )}
     </div>
   );
 }

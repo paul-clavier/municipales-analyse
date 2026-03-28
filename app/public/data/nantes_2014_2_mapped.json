@@ -6,7 +6,8 @@
     "votants": 529,
     "nuls": 27,
     "exprimes": 502,
-    "PS": 502,
+    "LR": 184,
+    "PS": 318,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -148,7 +149,8 @@
     "votants": 281,
     "nuls": 15,
     "exprimes": 266,
-    "PS": 266,
+    "LR": 79,
+    "PS": 187,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -290,7 +292,8 @@
     "votants": 401,
     "nuls": 22,
     "exprimes": 379,
-    "PS": 379,
+    "LR": 111,
+    "PS": 268,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -392,7 +395,8 @@
     "votants": 417,
     "nuls": 20,
     "exprimes": 397,
-    "PS": 397,
+    "LR": 172,
+    "PS": 225,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -670,7 +674,8 @@
     "votants": 519,
     "nuls": 30,
     "exprimes": 489,
-    "PS": 489,
+    "LR": 158,
+    "PS": 331,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -848,7 +853,8 @@
     "votants": 312,
     "nuls": 12,
     "exprimes": 300,
-    "PS": 300,
+    "LR": 80,
+    "PS": 220,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -1006,7 +1012,8 @@
     "votants": 402,
     "nuls": 31,
     "exprimes": 371,
-    "PS": 371,
+    "LR": 134,
+    "PS": 237,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -1184,7 +1191,8 @@
     "votants": 455,
     "nuls": 29,
     "exprimes": 426,
-    "PS": 426,
+    "LR": 202,
+    "PS": 224,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -1334,7 +1342,8 @@
     "votants": 492,
     "nuls": 27,
     "exprimes": 465,
-    "PS": 465,
+    "LR": 213,
+    "PS": 252,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -1808,7 +1817,8 @@
     "votants": 494,
     "nuls": 22,
     "exprimes": 472,
-    "PS": 472,
+    "LR": 181,
+    "PS": 291,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2006,7 +2016,8 @@
     "votants": 544,
     "nuls": 31,
     "exprimes": 513,
-    "PS": 513,
+    "LR": 259,
+    "PS": 254,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2136,7 +2147,8 @@
     "votants": 483,
     "nuls": 25,
     "exprimes": 458,
-    "PS": 458,
+    "LR": 151,
+    "PS": 307,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2446,7 +2458,8 @@
     "votants": 512,
     "nuls": 26,
     "exprimes": 486,
-    "PS": 486,
+    "LR": 238,
+    "PS": 248,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2620,7 +2633,8 @@
     "votants": 504,
     "nuls": 34,
     "exprimes": 470,
-    "PS": 470,
+    "LR": 206,
+    "PS": 264,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2702,7 +2716,8 @@
     "votants": 529,
     "nuls": 20,
     "exprimes": 509,
-    "PS": 509,
+    "LR": 309,
+    "PS": 200,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -2860,7 +2875,8 @@
     "votants": 514,
     "nuls": 14,
     "exprimes": 500,
-    "PS": 500,
+    "LR": 256,
+    "PS": 244,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -3006,7 +3022,8 @@
     "votants": 515,
     "nuls": 33,
     "exprimes": 482,
-    "PS": 482,
+    "LR": 186,
+    "PS": 296,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -3208,7 +3225,8 @@
     "votants": 487,
     "nuls": 28,
     "exprimes": 459,
-    "PS": 459,
+    "LR": 239,
+    "PS": 220,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -3754,7 +3772,8 @@
     "votants": 440,
     "nuls": 26,
     "exprimes": 414,
-    "PS": 414,
+    "LR": 135,
+    "PS": 279,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -4012,7 +4031,8 @@
     "votants": 424,
     "nuls": 20,
     "exprimes": 404,
-    "PS": 404,
+    "LR": 175,
+    "PS": 229,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -4386,7 +4406,8 @@
     "votants": 636,
     "nuls": 38,
     "exprimes": 598,
-    "PS": 598,
+    "LR": 244,
+    "PS": 354,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -4668,7 +4689,8 @@
     "votants": 684,
     "nuls": 38,
     "exprimes": 646,
-    "PS": 646,
+    "LR": 272,
+    "PS": 374,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -4866,7 +4888,8 @@
     "votants": 493,
     "nuls": 30,
     "exprimes": 463,
-    "PS": 463,
+    "LR": 212,
+    "PS": 251,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -5972,7 +5995,8 @@
     "votants": 429,
     "nuls": 29,
     "exprimes": 400,
-    "PS": 400,
+    "LR": 135,
+    "PS": 265,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -6154,7 +6178,8 @@
     "votants": 576,
     "nuls": 38,
     "exprimes": 538,
-    "PS": 538,
+    "LR": 304,
+    "PS": 234,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -6380,7 +6405,8 @@
     "votants": 438,
     "nuls": 22,
     "exprimes": 416,
-    "PS": 416,
+    "LR": 233,
+    "PS": 183,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -6618,7 +6644,8 @@
     "votants": 582,
     "nuls": 21,
     "exprimes": 561,
-    "PS": 561,
+    "LR": 375,
+    "PS": 186,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -6760,7 +6787,8 @@
     "votants": 370,
     "nuls": 21,
     "exprimes": 349,
-    "PS": 349,
+    "LR": 134,
+    "PS": 215,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -6878,7 +6906,8 @@
     "votants": 196,
     "nuls": 14,
     "exprimes": 182,
-    "PS": 182,
+    "LR": 50,
+    "PS": 132,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -7088,7 +7117,8 @@
     "votants": 492,
     "nuls": 31,
     "exprimes": 461,
-    "PS": 461,
+    "LR": 188,
+    "PS": 273,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -7542,7 +7572,8 @@
     "votants": 528,
     "nuls": 32,
     "exprimes": 496,
-    "PS": 496,
+    "LR": 164,
+    "PS": 332,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -7748,7 +7779,8 @@
     "votants": 414,
     "nuls": 17,
     "exprimes": 397,
-    "PS": 397,
+    "LR": 146,
+    "PS": 251,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -7870,7 +7902,8 @@
     "votants": 405,
     "nuls": 24,
     "exprimes": 381,
-    "PS": 381,
+    "LR": 159,
+    "PS": 222,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -8256,7 +8289,8 @@
     "votants": 652,
     "nuls": 38,
     "exprimes": 614,
-    "PS": 614,
+    "LR": 275,
+    "PS": 339,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -8526,7 +8560,8 @@
     "votants": 707,
     "nuls": 59,
     "exprimes": 648,
-    "PS": 648,
+    "LR": 260,
+    "PS": 388,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -8636,7 +8671,8 @@
     "votants": 517,
     "nuls": 32,
     "exprimes": 485,
-    "PS": 485,
+    "LR": 190,
+    "PS": 295,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -8814,7 +8850,8 @@
     "votants": 534,
     "nuls": 36,
     "exprimes": 498,
-    "PS": 498,
+    "LR": 187,
+    "PS": 311,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -9076,7 +9113,8 @@
     "votants": 574,
     "nuls": 24,
     "exprimes": 550,
-    "PS": 550,
+    "LR": 212,
+    "PS": 338,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -9198,7 +9236,8 @@
     "votants": 432,
     "nuls": 28,
     "exprimes": 404,
-    "PS": 404,
+    "LR": 148,
+    "PS": 256,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -9692,7 +9731,8 @@
     "votants": 526,
     "nuls": 17,
     "exprimes": 509,
-    "PS": 509,
+    "LR": 326,
+    "PS": 183,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -9994,7 +10034,8 @@
     "votants": 427,
     "nuls": 34,
     "exprimes": 393,
-    "PS": 393,
+    "LR": 125,
+    "PS": 268,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -10984,7 +11025,8 @@
     "votants": 409,
     "nuls": 27,
     "exprimes": 382,
-    "PS": 382,
+    "LR": 135,
+    "PS": 247,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -11154,7 +11196,8 @@
     "votants": 328,
     "nuls": 23,
     "exprimes": 305,
-    "PS": 305,
+    "LR": 121,
+    "PS": 184,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -11316,7 +11359,8 @@
     "votants": 466,
     "nuls": 27,
     "exprimes": 439,
-    "PS": 439,
+    "LR": 151,
+    "PS": 288,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -11510,7 +11554,8 @@
     "votants": 486,
     "nuls": 41,
     "exprimes": 445,
-    "PS": 445,
+    "LR": 141,
+    "PS": 304,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -12556,7 +12601,8 @@
     "votants": 346,
     "nuls": 15,
     "exprimes": 331,
-    "PS": 331,
+    "LR": 158,
+    "PS": 173,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -12746,7 +12792,8 @@
     "votants": 533,
     "nuls": 17,
     "exprimes": 516,
-    "PS": 516,
+    "LR": 311,
+    "PS": 205,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -13148,7 +13195,8 @@
     "votants": 622,
     "nuls": 17,
     "exprimes": 605,
-    "PS": 605,
+    "LR": 457,
+    "PS": 148,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -13634,7 +13682,8 @@
     "votants": 351,
     "nuls": 13,
     "exprimes": 338,
-    "PS": 338,
+    "LR": 131,
+    "PS": 207,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -13724,7 +13773,8 @@
     "votants": 309,
     "nuls": 17,
     "exprimes": 292,
-    "PS": 292,
+    "LR": 115,
+    "PS": 177,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -13890,7 +13940,8 @@
     "votants": 523,
     "nuls": 37,
     "exprimes": 486,
-    "PS": 486,
+    "LR": 186,
+    "PS": 300,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -14172,7 +14223,8 @@
     "votants": 390,
     "nuls": 14,
     "exprimes": 376,
-    "PS": 376,
+    "LR": 193,
+    "PS": 183,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -14350,7 +14402,8 @@
     "votants": 379,
     "nuls": 17,
     "exprimes": 362,
-    "PS": 362,
+    "LR": 126,
+    "PS": 236,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -14512,7 +14565,8 @@
     "votants": 504,
     "nuls": 21,
     "exprimes": 483,
-    "PS": 483,
+    "LR": 216,
+    "PS": 267,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -14706,7 +14760,8 @@
     "votants": 426,
     "nuls": 24,
     "exprimes": 402,
-    "PS": 402,
+    "LR": 125,
+    "PS": 277,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -15204,7 +15259,8 @@
     "votants": 533,
     "nuls": 29,
     "exprimes": 504,
-    "PS": 504,
+    "LR": 162,
+    "PS": 342,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -15330,7 +15386,8 @@
     "votants": 341,
     "nuls": 15,
     "exprimes": 326,
-    "PS": 326,
+    "LR": 155,
+    "PS": 171,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -15540,7 +15597,8 @@
     "votants": 556,
     "nuls": 28,
     "exprimes": 528,
-    "PS": 528,
+    "LR": 285,
+    "PS": 243,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -15686,7 +15744,8 @@
     "votants": 551,
     "nuls": 32,
     "exprimes": 519,
-    "PS": 519,
+    "LR": 295,
+    "PS": 224,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -15896,7 +15955,8 @@
     "votants": 594,
     "nuls": 42,
     "exprimes": 552,
-    "PS": 552,
+    "LR": 192,
+    "PS": 360,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -16026,7 +16086,8 @@
     "votants": 473,
     "nuls": 13,
     "exprimes": 460,
-    "PS": 460,
+    "LR": 274,
+    "PS": 186,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -16300,7 +16361,8 @@
     "votants": 363,
     "nuls": 16,
     "exprimes": 347,
-    "PS": 347,
+    "LR": 113,
+    "PS": 234,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -16470,7 +16532,8 @@
     "votants": 440,
     "nuls": 21,
     "exprimes": 419,
-    "PS": 419,
+    "LR": 176,
+    "PS": 243,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -16672,7 +16735,8 @@
     "votants": 387,
     "nuls": 19,
     "exprimes": 368,
-    "PS": 368,
+    "LR": 149,
+    "PS": 219,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -16942,7 +17006,8 @@
     "votants": 486,
     "nuls": 26,
     "exprimes": 460,
-    "PS": 460,
+    "LR": 213,
+    "PS": 247,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -18200,7 +18265,8 @@
     "votants": 668,
     "nuls": 66,
     "exprimes": 602,
-    "PS": 602,
+    "LR": 192,
+    "PS": 410,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -21070,7 +21136,8 @@
     "votants": 398,
     "nuls": 25,
     "exprimes": 373,
-    "PS": 373,
+    "LR": 169,
+    "PS": 204,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -21264,7 +21331,8 @@
     "votants": 544,
     "nuls": 24,
     "exprimes": 520,
-    "PS": 520,
+    "LR": 234,
+    "PS": 286,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -21406,7 +21474,8 @@
     "votants": 423,
     "nuls": 14,
     "exprimes": 409,
-    "PS": 409,
+    "LR": 163,
+    "PS": 246,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -21824,7 +21893,8 @@
     "votants": 595,
     "nuls": 34,
     "exprimes": 561,
-    "PS": 561,
+    "LR": 205,
+    "PS": 356,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -22014,7 +22084,8 @@
     "votants": 496,
     "nuls": 37,
     "exprimes": 459,
-    "PS": 459,
+    "LR": 172,
+    "PS": 287,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -22264,7 +22335,8 @@
     "votants": 514,
     "nuls": 17,
     "exprimes": 497,
-    "PS": 497,
+    "LR": 337,
+    "PS": 160,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -22446,7 +22518,8 @@
     "votants": 403,
     "nuls": 17,
     "exprimes": 386,
-    "PS": 386,
+    "LR": 93,
+    "PS": 293,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -23292,7 +23365,8 @@
     "votants": 613,
     "nuls": 38,
     "exprimes": 575,
-    "PS": 575,
+    "LR": 195,
+    "PS": 380,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -23526,7 +23600,8 @@
     "votants": 233,
     "nuls": 14,
     "exprimes": 219,
-    "PS": 219,
+    "LR": 62,
+    "PS": 157,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -23668,7 +23743,8 @@
     "votants": 357,
     "nuls": 13,
     "exprimes": 344,
-    "PS": 344,
+    "LR": 199,
+    "PS": 145,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -23890,7 +23966,8 @@
     "votants": 499,
     "nuls": 28,
     "exprimes": 471,
-    "PS": 471,
+    "LR": 262,
+    "PS": 209,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -24092,7 +24169,8 @@
     "votants": 493,
     "nuls": 25,
     "exprimes": 468,
-    "PS": 468,
+    "LR": 121,
+    "PS": 347,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -24282,7 +24360,8 @@
     "votants": 467,
     "nuls": 21,
     "exprimes": 446,
-    "PS": 446,
+    "LR": 214,
+    "PS": 232,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -24584,7 +24663,8 @@
     "votants": 485,
     "nuls": 16,
     "exprimes": 470,
-    "PS": 470,
+    "LR": 280,
+    "PS": 190,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -24778,7 +24858,8 @@
     "votants": 647,
     "nuls": 37,
     "exprimes": 610,
-    "PS": 610,
+    "LR": 217,
+    "PS": 393,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -25260,7 +25341,8 @@
     "votants": 432,
     "nuls": 28,
     "exprimes": 404,
-    "PS": 404,
+    "LR": 120,
+    "PS": 284,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -25570,7 +25652,8 @@
     "votants": 377,
     "nuls": 12,
     "exprimes": 365,
-    "PS": 365,
+    "LR": 211,
+    "PS": 154,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -25800,7 +25883,8 @@
     "votants": 400,
     "nuls": 26,
     "exprimes": 374,
-    "PS": 374,
+    "LR": 114,
+    "PS": 260,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -26046,7 +26130,8 @@
     "votants": 548,
     "nuls": 41,
     "exprimes": 507,
-    "PS": 507,
+    "LR": 267,
+    "PS": 240,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -26212,7 +26297,8 @@
     "votants": 616,
     "nuls": 42,
     "exprimes": 574,
-    "PS": 574,
+    "LR": 314,
+    "PS": 260,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -26582,7 +26668,8 @@
     "votants": 429,
     "nuls": 35,
     "exprimes": 394,
-    "PS": 394,
+    "LR": 100,
+    "PS": 294,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -26828,7 +26915,8 @@
     "votants": 400,
     "nuls": 26,
     "exprimes": 374,
-    "PS": 374,
+    "LR": 87,
+    "PS": 287,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -27182,7 +27270,8 @@
     "votants": 255,
     "nuls": 10,
     "exprimes": 245,
-    "PS": 245,
+    "LR": 84,
+    "PS": 161,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -27300,7 +27389,8 @@
     "votants": 443,
     "nuls": 29,
     "exprimes": 414,
-    "PS": 414,
+    "LR": 150,
+    "PS": 264,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -27730,7 +27820,8 @@
     "votants": 446,
     "nuls": 30,
     "exprimes": 416,
-    "PS": 416,
+    "LR": 156,
+    "PS": 260,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -27880,7 +27971,8 @@
     "votants": 488,
     "nuls": 19,
     "exprimes": 469,
-    "PS": 469,
+    "LR": 228,
+    "PS": 241,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -28126,7 +28218,8 @@
     "votants": 340,
     "nuls": 20,
     "exprimes": 320,
-    "PS": 320,
+    "LR": 133,
+    "PS": 187,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -28440,7 +28533,8 @@
     "votants": 315,
     "nuls": 20,
     "exprimes": 295,
-    "PS": 295,
+    "LR": 93,
+    "PS": 202,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -28642,7 +28736,8 @@
     "votants": 396,
     "nuls": 22,
     "exprimes": 374,
-    "PS": 374,
+    "LR": 172,
+    "PS": 202,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -28732,7 +28827,8 @@
     "votants": 451,
     "nuls": 23,
     "exprimes": 428,
-    "PS": 428,
+    "LR": 211,
+    "PS": 217,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -29022,7 +29118,8 @@
     "votants": 593,
     "nuls": 47,
     "exprimes": 546,
-    "PS": 546,
+    "LR": 152,
+    "PS": 394,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -29232,7 +29329,8 @@
     "votants": 531,
     "nuls": 24,
     "exprimes": 507,
-    "PS": 507,
+    "LR": 340,
+    "PS": 167,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -29482,7 +29580,8 @@
     "votants": 225,
     "nuls": 18,
     "exprimes": 207,
-    "PS": 207,
+    "LR": 51,
+    "PS": 156,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -29780,7 +29879,8 @@
     "votants": 647,
     "nuls": 27,
     "exprimes": 620,
-    "PS": 620,
+    "LR": 406,
+    "PS": 214,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -29926,7 +30026,8 @@
     "votants": 262,
     "nuls": 18,
     "exprimes": 244,
-    "PS": 244,
+    "LR": 72,
+    "PS": 172,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -30068,7 +30169,8 @@
     "votants": 500,
     "nuls": 25,
     "exprimes": 475,
-    "PS": 475,
+    "LR": 204,
+    "PS": 271,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -30254,7 +30356,8 @@
     "votants": 470,
     "nuls": 14,
     "exprimes": 456,
-    "PS": 456,
+    "LR": 241,
+    "PS": 215,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -30468,7 +30571,8 @@
     "votants": 668,
     "nuls": 27,
     "exprimes": 641,
-    "PS": 641,
+    "LR": 286,
+    "PS": 355,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -30598,7 +30702,8 @@
     "votants": 529,
     "nuls": 33,
     "exprimes": 496,
-    "PS": 496,
+    "LR": 215,
+    "PS": 281,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -31076,7 +31181,8 @@
     "votants": 248,
     "nuls": 10,
     "exprimes": 238,
-    "PS": 238,
+    "LR": 56,
+    "PS": 182,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -31182,7 +31288,8 @@
     "votants": 718,
     "nuls": 15,
     "exprimes": 703,
-    "PS": 703,
+    "LR": 506,
+    "PS": 197,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -31404,7 +31511,8 @@
     "votants": 519,
     "nuls": 15,
     "exprimes": 504,
-    "PS": 504,
+    "LR": 292,
+    "PS": 212,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -31662,7 +31770,8 @@
     "votants": 563,
     "nuls": 15,
     "exprimes": 548,
-    "PS": 548,
+    "LR": 279,
+    "PS": 269,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -31804,7 +31913,8 @@
     "votants": 341,
     "nuls": 18,
     "exprimes": 323,
-    "PS": 323,
+    "LR": 133,
+    "PS": 190,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -32354,7 +32464,8 @@
     "votants": 517,
     "nuls": 27,
     "exprimes": 490,
-    "PS": 490,
+    "LR": 250,
+    "PS": 240,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -32488,7 +32599,8 @@
     "votants": 614,
     "nuls": 17,
     "exprimes": 597,
-    "PS": 597,
+    "LR": 343,
+    "PS": 254,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -32766,7 +32878,8 @@
     "votants": 317,
     "nuls": 21,
     "exprimes": 296,
-    "PS": 296,
+    "LR": 98,
+    "PS": 198,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -32916,7 +33029,8 @@
     "votants": 612,
     "nuls": 27,
     "exprimes": 585,
-    "PS": 585,
+    "LR": 358,
+    "PS": 227,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -33158,7 +33272,8 @@
     "votants": 655,
     "nuls": 40,
     "exprimes": 615,
-    "PS": 615,
+    "LR": 182,
+    "PS": 433,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -33432,7 +33547,8 @@
     "votants": 416,
     "nuls": 33,
     "exprimes": 383,
-    "PS": 383,
+    "LR": 177,
+    "PS": 206,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -33526,7 +33642,8 @@
     "votants": 611,
     "nuls": 19,
     "exprimes": 592,
-    "PS": 592,
+    "LR": 370,
+    "PS": 222,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -33656,7 +33773,8 @@
     "votants": 378,
     "nuls": 16,
     "exprimes": 362,
-    "PS": 362,
+    "LR": 140,
+    "PS": 222,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -33854,7 +33972,8 @@
     "votants": 476,
     "nuls": 37,
     "exprimes": 439,
-    "PS": 439,
+    "LR": 166,
+    "PS": 273,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -34092,7 +34211,8 @@
     "votants": 422,
     "nuls": 15,
     "exprimes": 407,
-    "PS": 407,
+    "LR": 265,
+    "PS": 142,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -34238,7 +34358,8 @@
     "votants": 728,
     "nuls": 48,
     "exprimes": 680,
-    "PS": 680,
+    "LR": 241,
+    "PS": 439,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -34656,7 +34777,8 @@
     "votants": 309,
     "nuls": 19,
     "exprimes": 290,
-    "PS": 290,
+    "LR": 75,
+    "PS": 215,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -35310,7 +35432,8 @@
     "votants": 605,
     "nuls": 20,
     "exprimes": 585,
-    "PS": 585,
+    "LR": 394,
+    "PS": 191,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -35460,7 +35583,8 @@
     "votants": 332,
     "nuls": 17,
     "exprimes": 315,
-    "PS": 315,
+    "LR": 123,
+    "PS": 192,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -35610,7 +35734,8 @@
     "votants": 385,
     "nuls": 24,
     "exprimes": 361,
-    "PS": 361,
+    "LR": 139,
+    "PS": 222,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -35852,7 +35977,8 @@
     "votants": 193,
     "nuls": 10,
     "exprimes": 183,
-    "PS": 183,
+    "LR": 56,
+    "PS": 127,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -35978,7 +36104,8 @@
     "votants": 270,
     "nuls": 18,
     "exprimes": 252,
-    "PS": 252,
+    "LR": 66,
+    "PS": 186,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -36876,7 +37003,8 @@
     "votants": 223,
     "nuls": 19,
     "exprimes": 204,
-    "PS": 204,
+    "LR": 60,
+    "PS": 144,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37082,7 +37210,8 @@
     "votants": 488,
     "nuls": 30,
     "exprimes": 458,
-    "PS": 458,
+    "LR": 215,
+    "PS": 243,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37248,7 +37377,8 @@
     "votants": 479,
     "nuls": 23,
     "exprimes": 456,
-    "PS": 456,
+    "LR": 263,
+    "PS": 193,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37418,7 +37548,8 @@
     "votants": 433,
     "nuls": 44,
     "exprimes": 389,
-    "PS": 389,
+    "LR": 144,
+    "PS": 245,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37556,7 +37687,8 @@
     "votants": 503,
     "nuls": 15,
     "exprimes": 488,
-    "PS": 488,
+    "LR": 286,
+    "PS": 202,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37718,7 +37850,8 @@
     "votants": 358,
     "nuls": 22,
     "exprimes": 336,
-    "PS": 336,
+    "LR": 93,
+    "PS": 243,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -37960,7 +38093,8 @@
     "votants": 459,
     "nuls": 30,
     "exprimes": 429,
-    "PS": 429,
+    "LR": 241,
+    "PS": 188,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -38078,7 +38212,8 @@
     "votants": 366,
     "nuls": 26,
     "exprimes": 340,
-    "PS": 340,
+    "LR": 132,
+    "PS": 208,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -38276,7 +38411,8 @@
     "votants": 429,
     "nuls": 28,
     "exprimes": 401,
-    "PS": 401,
+    "LR": 192,
+    "PS": 209,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -38682,7 +38818,8 @@
     "votants": 368,
     "nuls": 19,
     "exprimes": 349,
-    "PS": 349,
+    "LR": 124,
+    "PS": 225,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -38820,7 +38957,8 @@
     "votants": 396,
     "nuls": 24,
     "exprimes": 372,
-    "PS": 372,
+    "LR": 174,
+    "PS": 198,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -38882,7 +39020,8 @@
     "votants": 442,
     "nuls": 31,
     "exprimes": 411,
-    "PS": 411,
+    "LR": 153,
+    "PS": 258,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -39056,7 +39195,8 @@
     "votants": 420,
     "nuls": 26,
     "exprimes": 394,
-    "PS": 394,
+    "LR": 166,
+    "PS": 228,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -39162,7 +39302,8 @@
     "votants": 220,
     "nuls": 13,
     "exprimes": 207,
-    "PS": 207,
+    "LR": 50,
+    "PS": 157,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -39304,7 +39445,8 @@
     "votants": 745,
     "nuls": 45,
     "exprimes": 700,
-    "PS": 700,
+    "LR": 250,
+    "PS": 450,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -39530,7 +39672,8 @@
     "votants": 572,
     "nuls": 48,
     "exprimes": 524,
-    "PS": 524,
+    "LR": 167,
+    "PS": 357,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -39940,7 +40083,8 @@
     "votants": 664,
     "nuls": 30,
     "exprimes": 634,
-    "PS": 634,
+    "LR": 284,
+    "PS": 350,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -40206,7 +40350,8 @@
     "votants": 629,
     "nuls": 31,
     "exprimes": 598,
-    "PS": 598,
+    "LR": 277,
+    "PS": 321,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -40412,7 +40557,8 @@
     "votants": 590,
     "nuls": 41,
     "exprimes": 549,
-    "PS": 549,
+    "LR": 218,
+    "PS": 331,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -40702,7 +40848,8 @@
     "votants": 192,
     "nuls": 10,
     "exprimes": 182,
-    "PS": 182,
+    "LR": 46,
+    "PS": 136,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -41076,7 +41223,8 @@
     "votants": 491,
     "nuls": 34,
     "exprimes": 457,
-    "PS": 457,
+    "LR": 189,
+    "PS": 268,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -41262,7 +41410,8 @@
     "votants": 377,
     "nuls": 24,
     "exprimes": 353,
-    "PS": 353,
+    "LR": 104,
+    "PS": 249,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -41504,7 +41653,8 @@
     "votants": 536,
     "nuls": 26,
     "exprimes": 510,
-    "PS": 510,
+    "LR": 211,
+    "PS": 299,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -41798,7 +41948,8 @@
     "votants": 709,
     "nuls": 42,
     "exprimes": 667,
-    "PS": 667,
+    "LR": 320,
+    "PS": 347,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -41940,7 +42091,8 @@
     "votants": 493,
     "nuls": 29,
     "exprimes": 464,
-    "PS": 464,
+    "LR": 210,
+    "PS": 254,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -42174,7 +42326,8 @@
     "votants": 528,
     "nuls": 20,
     "exprimes": 508,
-    "PS": 508,
+    "LR": 298,
+    "PS": 210,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -42336,7 +42489,8 @@
     "votants": 608,
     "nuls": 31,
     "exprimes": 577,
-    "PS": 577,
+    "LR": 328,
+    "PS": 249,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -42526,7 +42680,8 @@
     "votants": 403,
     "nuls": 16,
     "exprimes": 387,
-    "PS": 387,
+    "LR": 184,
+    "PS": 203,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -42860,7 +43015,8 @@
     "votants": 355,
     "nuls": 16,
     "exprimes": 339,
-    "PS": 339,
+    "LR": 118,
+    "PS": 221,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -42986,7 +43142,8 @@
     "votants": 488,
     "nuls": 15,
     "exprimes": 473,
-    "PS": 473,
+    "LR": 331,
+    "PS": 142,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -43148,7 +43305,8 @@
     "votants": 348,
     "nuls": 17,
     "exprimes": 331,
-    "PS": 331,
+    "LR": 151,
+    "PS": 180,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -43306,7 +43464,8 @@
     "votants": 496,
     "nuls": 17,
     "exprimes": 479,
-    "PS": 479,
+    "LR": 226,
+    "PS": 253,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -43484,7 +43643,8 @@
     "votants": 484,
     "nuls": 28,
     "exprimes": 456,
-    "PS": 456,
+    "LR": 151,
+    "PS": 305,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -43782,7 +43942,8 @@
     "votants": 461,
     "nuls": 18,
     "exprimes": 443,
-    "PS": 443,
+    "LR": 315,
+    "PS": 128,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -43976,7 +44137,8 @@
     "votants": 612,
     "nuls": 39,
     "exprimes": 573,
-    "PS": 573,
+    "LR": 269,
+    "PS": 304,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -44174,7 +44336,8 @@
     "votants": 560,
     "nuls": 32,
     "exprimes": 528,
-    "PS": 528,
+    "LR": 364,
+    "PS": 164,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -44316,7 +44479,8 @@
     "votants": 574,
     "nuls": 26,
     "exprimes": 548,
-    "PS": 548,
+    "LR": 223,
+    "PS": 325,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -44466,7 +44630,8 @@
     "votants": 722,
     "nuls": 46,
     "exprimes": 676,
-    "PS": 676,
+    "LR": 176,
+    "PS": 500,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -44676,7 +44841,8 @@
     "votants": 293,
     "nuls": 19,
     "exprimes": 274,
-    "PS": 274,
+    "LR": 71,
+    "PS": 203,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -44866,7 +45032,8 @@
     "votants": 505,
     "nuls": 27,
     "exprimes": 478,
-    "PS": 478,
+    "LR": 292,
+    "PS": 186,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -45116,7 +45283,8 @@
     "votants": 357,
     "nuls": 13,
     "exprimes": 344,
-    "PS": 344,
+    "LR": 163,
+    "PS": 181,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -45290,7 +45458,8 @@
     "votants": 399,
     "nuls": 26,
     "exprimes": 373,
-    "PS": 373,
+    "LR": 205,
+    "PS": 168,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -45572,7 +45741,8 @@
     "votants": 606,
     "nuls": 18,
     "exprimes": 588,
-    "PS": 588,
+    "LR": 317,
+    "PS": 271,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -45798,7 +45968,8 @@
     "votants": 483,
     "nuls": 25,
     "exprimes": 458,
-    "PS": 458,
+    "LR": 162,
+    "PS": 296,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -46132,7 +46303,8 @@
     "votants": 627,
     "nuls": 26,
     "exprimes": 595,
-    "PS": 595,
+    "LR": 250,
+    "PS": 345,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -46290,7 +46462,8 @@
     "votants": 382,
     "nuls": 15,
     "exprimes": 367,
-    "PS": 367,
+    "LR": 140,
+    "PS": 227,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -46520,7 +46693,8 @@
     "votants": 404,
     "nuls": 34,
     "exprimes": 370,
-    "PS": 370,
+    "LR": 135,
+    "PS": 235,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -46898,7 +47072,8 @@
     "votants": 442,
     "nuls": 28,
     "exprimes": 414,
-    "PS": 414,
+    "LR": 143,
+    "PS": 271,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47116,7 +47291,8 @@
     "votants": 447,
     "nuls": 38,
     "exprimes": 409,
-    "PS": 409,
+    "LR": 139,
+    "PS": 270,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47318,7 +47494,8 @@
     "votants": 433,
     "nuls": 21,
     "exprimes": 412,
-    "PS": 412,
+    "LR": 207,
+    "PS": 205,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47484,7 +47661,8 @@
     "votants": 539,
     "nuls": 34,
     "exprimes": 505,
-    "PS": 505,
+    "LR": 201,
+    "PS": 304,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47662,7 +47840,8 @@
     "votants": 498,
     "nuls": 22,
     "exprimes": 476,
-    "PS": 476,
+    "LR": 206,
+    "PS": 270,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47836,7 +48015,8 @@
     "votants": 414,
     "nuls": 13,
     "exprimes": 401,
-    "PS": 401,
+    "LR": 206,
+    "PS": 195,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -47998,7 +48178,8 @@
     "votants": 423,
     "nuls": 18,
     "exprimes": 405,
-    "PS": 405,
+    "LR": 196,
+    "PS": 209,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -48124,7 +48305,8 @@
     "votants": 473,
     "nuls": 24,
     "exprimes": 449,
-    "PS": 449,
+    "LR": 222,
+    "PS": 227,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -48302,7 +48484,8 @@
     "votants": 351,
     "nuls": 22,
     "exprimes": 329,
-    "PS": 329,
+    "LR": 124,
+    "PS": 205,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -48404,7 +48587,8 @@
     "votants": 269,
     "nuls": 23,
     "exprimes": 246,
-    "PS": 246,
+    "LR": 89,
+    "PS": 157,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -48494,7 +48678,8 @@
     "votants": 517,
     "nuls": 24,
     "exprimes": 493,
-    "PS": 493,
+    "LR": 295,
+    "PS": 198,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -48664,7 +48849,8 @@
     "votants": 429,
     "nuls": 36,
     "exprimes": 393,
-    "PS": 393,
+    "LR": 151,
+    "PS": 242,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -49058,7 +49244,8 @@
     "votants": 572,
     "nuls": 26,
     "exprimes": 546,
-    "PS": 546,
+    "LR": 143,
+    "PS": 403,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -49324,7 +49511,8 @@
     "votants": 530,
     "nuls": 32,
     "exprimes": 498,
-    "PS": 498,
+    "LR": 219,
+    "PS": 279,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -49590,7 +49778,8 @@
     "votants": 522,
     "nuls": 37,
     "exprimes": 485,
-    "PS": 485,
+    "LR": 209,
+    "PS": 276,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -49808,7 +49997,8 @@
     "votants": 449,
     "nuls": 27,
     "exprimes": 422,
-    "PS": 422,
+    "LR": 183,
+    "PS": 239,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -49934,7 +50124,8 @@
     "votants": 393,
     "nuls": 26,
     "exprimes": 367,
-    "PS": 367,
+    "LR": 151,
+    "PS": 216,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -50104,7 +50295,8 @@
     "votants": 337,
     "nuls": 24,
     "exprimes": 313,
-    "PS": 313,
+    "LR": 88,
+    "PS": 225,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -50246,7 +50438,8 @@
     "votants": 559,
     "nuls": 27,
     "exprimes": 532,
-    "PS": 532,
+    "LR": 237,
+    "PS": 295,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -50532,7 +50725,8 @@
     "votants": 540,
     "nuls": 39,
     "exprimes": 501,
-    "PS": 501,
+    "LR": 181,
+    "PS": 320,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -50734,7 +50928,8 @@
     "votants": 321,
     "nuls": 31,
     "exprimes": 290,
-    "PS": 290,
+    "LR": 72,
+    "PS": 218,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -50896,7 +51091,8 @@
     "votants": 484,
     "nuls": 41,
     "exprimes": 443,
-    "PS": 443,
+    "LR": 159,
+    "PS": 284,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51206,7 +51402,8 @@
     "votants": 404,
     "nuls": 19,
     "exprimes": 385,
-    "PS": 385,
+    "LR": 169,
+    "PS": 216,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51320,7 +51517,8 @@
     "votants": 551,
     "nuls": 28,
     "exprimes": 523,
-    "PS": 523,
+    "LR": 272,
+    "PS": 251,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51522,7 +51720,8 @@
     "votants": 350,
     "nuls": 27,
     "exprimes": 323,
-    "PS": 323,
+    "LR": 91,
+    "PS": 232,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51656,7 +51855,8 @@
     "votants": 554,
     "nuls": 37,
     "exprimes": 517,
-    "PS": 517,
+    "LR": 246,
+    "PS": 271,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51838,7 +52038,8 @@
     "votants": 403,
     "nuls": 17,
     "exprimes": 386,
-    "PS": 386,
+    "LR": 87,
+    "PS": 299,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -51952,7 +52153,8 @@
     "votants": 637,
     "nuls": 46,
     "exprimes": 591,
-    "PS": 591,
+    "LR": 215,
+    "PS": 376,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -52110,7 +52312,8 @@
     "votants": 551,
     "nuls": 29,
     "exprimes": 522,
-    "PS": 522,
+    "LR": 194,
+    "PS": 328,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -52312,7 +52515,8 @@
     "votants": 415,
     "nuls": 16,
     "exprimes": 399,
-    "PS": 399,
+    "LR": 177,
+    "PS": 222,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -52466,7 +52670,8 @@
     "votants": 628,
     "nuls": 45,
     "exprimes": 583,
-    "PS": 583,
+    "LR": 290,
+    "PS": 293,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -52692,7 +52897,8 @@
     "votants": 457,
     "nuls": 13,
     "exprimes": 444,
-    "PS": 444,
+    "LR": 180,
+    "PS": 264,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -53034,7 +53240,8 @@
     "votants": 385,
     "nuls": 17,
     "exprimes": 368,
-    "PS": 368,
+    "LR": 132,
+    "PS": 236,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -53396,7 +53603,8 @@
     "votants": 304,
     "nuls": 28,
     "exprimes": 276,
-    "PS": 276,
+    "LR": 104,
+    "PS": 172,
     "geometry": {
       "type": "Feature",
       "geometry": {
@@ -53534,7 +53742,8 @@
     "votants": 542,
     "nuls": 44,
     "exprimes": 498,
-    "PS": 498,
+    "LR": 256,
+    "PS": 242,
     "geometry": {
       "type": "Feature",
       "geometry": {
