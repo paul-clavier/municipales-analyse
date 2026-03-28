@@ -16,6 +16,52 @@ function getVotants(bureau) {
     (bureau.exprimes + (bureau.nuls ?? 0) + (bureau.blancs ?? 0));
 }
 
+const APPROX_RADIUS_KM = 0.5;
+
+function computeCentroid(bureau) {
+  const coords = bureau.geometry.geometry.coordinates[0];
+  const n = coords.length - 1; // exclude closing duplicate
+  let lngSum = 0, latSum = 0;
+  for (let i = 0; i < n; i++) {
+    lngSum += coords[i][0];
+    latSum += coords[i][1];
+  }
+  return [lngSum / n, latSum / n];
+}
+
+function haversineKm(a, b) {
+  const toRad = (deg) => deg * Math.PI / 180;
+  const R = 6371;
+  const dLat = toRad(b[1] - a[1]);
+  const dLng = toRad(b[0] - a[0]);
+  const sinLat = Math.sin(dLat / 2);
+  const sinLng = Math.sin(dLng / 2);
+  const h = sinLat * sinLat + Math.cos(toRad(a[1])) * Math.cos(toRad(b[1])) * sinLng * sinLng;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
+function computeFromVal(neighbors, totalWeight, selectedPartis, mode, valueMode) {
+  if (mode === "participation") {
+    if (valueMode === "percentage") {
+      return neighbors.reduce((s, n) => {
+        const pct = n.bureau.inscrits > 0 ? getVotants(n.bureau) / n.bureau.inscrits : 0;
+        return s + n.weight * pct;
+      }, 0) / totalWeight;
+    }
+    return neighbors.reduce((s, n) => s + n.weight * getVotants(n.bureau), 0) / totalWeight;
+  }
+  if (valueMode === "percentage") {
+    return neighbors.reduce((s, n) => {
+      const sum = selectedPartis.reduce((acc, p) => acc + (n.bureau[p] || 0), 0);
+      return s + n.weight * Math.min(sum / (n.bureau.exprimes || 1), 1);
+    }, 0) / totalWeight;
+  }
+  return neighbors.reduce((s, n) => {
+    const sum = selectedPartis.reduce((acc, p) => acc + (n.bureau[p] || 0), 0);
+    return s + n.weight * sum;
+  }, 0) / totalWeight;
+}
+
 function getDiffColor(ratio) {
   // ratio: -1 to +1. Negative = red, Positive = green, 0 = white
   if (ratio >= 0) {
@@ -54,39 +100,69 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
 
     const toBureaus = toData.filter((b) => b.geometry);
 
-    // Pass 1: compute diffs
+    // Precompute centroids for geographic fallback
+    const fromCentroids = fromData
+      .filter((b) => b.geometry)
+      .map((b) => ({ bureau: b, centroid: computeCentroid(b) }));
+
+    // Pass 1: compute diffs (exact match + geographic fallback)
     const rawDiffs = toBureaus.map((toBureau) => {
       const id = getBureauId(toBureau);
       const fromBureau = fromIndex[id];
 
-      if (!fromBureau) {
-        return { toBureau, diff: null, matched: false };
-      }
-
       let toVal, fromVal;
 
-      if (mode === "participation") {
-        if (valueMode === "percentage") {
-          toVal = toBureau.inscrits > 0 ? getVotants(toBureau) / toBureau.inscrits : 0;
-          fromVal = fromBureau.inscrits > 0 ? getVotants(fromBureau) / fromBureau.inscrits : 0;
+      if (fromBureau) {
+        // Exact ID match
+        if (mode === "participation") {
+          if (valueMode === "percentage") {
+            toVal = toBureau.inscrits > 0 ? getVotants(toBureau) / toBureau.inscrits : 0;
+            fromVal = fromBureau.inscrits > 0 ? getVotants(fromBureau) / fromBureau.inscrits : 0;
+          } else {
+            toVal = getVotants(toBureau);
+            fromVal = getVotants(fromBureau);
+          }
         } else {
-          toVal = getVotants(toBureau);
-          fromVal = getVotants(fromBureau);
+          const toSum = selectedPartis.reduce((acc, p) => acc + (toBureau[p] || 0), 0);
+          const fromSum = selectedPartis.reduce((acc, p) => acc + (fromBureau[p] || 0), 0);
+          if (valueMode === "percentage") {
+            toVal = Math.min(toSum / (toBureau.exprimes || 1), 1);
+            fromVal = Math.min(fromSum / (fromBureau.exprimes || 1), 1);
+          } else {
+            toVal = toSum;
+            fromVal = fromSum;
+          }
         }
-      } else {
-        const toSum = selectedPartis.reduce((acc, p) => acc + (toBureau[p] || 0), 0);
-        const fromSum = selectedPartis.reduce((acc, p) => acc + (fromBureau[p] || 0), 0);
+        return { toBureau, diff: toVal - fromVal, matched: true, approximated: false };
+      }
 
-        if (valueMode === "percentage") {
-          toVal = Math.min(toSum / (toBureau.exprimes || 1), 1);
-          fromVal = Math.min(fromSum / (fromBureau.exprimes || 1), 1);
-        } else {
-          toVal = toSum;
-          fromVal = fromSum;
+      // Geographic fallback: find nearby "from" bureaus
+      const toCentroid = computeCentroid(toBureau);
+      const neighbors = [];
+      for (const fc of fromCentroids) {
+        const dist = haversineKm(toCentroid, fc.centroid);
+        if (dist <= APPROX_RADIUS_KM) {
+          neighbors.push({ bureau: fc.bureau, weight: 1 / Math.max(dist, 0.01) });
         }
       }
 
-      return { toBureau, diff: toVal - fromVal, matched: true };
+      if (neighbors.length === 0) {
+        return { toBureau, diff: null, matched: false, approximated: false };
+      }
+
+      const totalWeight = neighbors.reduce((s, n) => s + n.weight, 0);
+
+      if (mode === "participation") {
+        toVal = valueMode === "percentage"
+          ? (toBureau.inscrits > 0 ? getVotants(toBureau) / toBureau.inscrits : 0)
+          : getVotants(toBureau);
+      } else {
+        const toSum = selectedPartis.reduce((acc, p) => acc + (toBureau[p] || 0), 0);
+        toVal = valueMode === "percentage" ? Math.min(toSum / (toBureau.exprimes || 1), 1) : toSum;
+      }
+      fromVal = computeFromVal(neighbors, totalWeight, selectedPartis, mode, valueMode);
+
+      return { toBureau, diff: toVal - fromVal, matched: true, approximated: true, neighborCount: neighbors.length };
     });
 
     // Compute scale
@@ -108,7 +184,7 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
     }
 
     // Pass 2: build features
-    const features = rawDiffs.map(({ toBureau, diff, matched }) => {
+    const features = rawDiffs.map(({ toBureau, diff, matched, approximated, neighborCount }) => {
       const ratio = matched ? diff / scaleMax : 0;
 
       return {
@@ -119,6 +195,8 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
           ratio: Math.max(-1, Math.min(1, ratio)),
           rawDiff: diff,
           matched,
+          approximated: approximated || false,
+          neighborCount: neighborCount || 0,
           valueMode,
         },
       };
@@ -134,10 +212,11 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
     }
     return {
       fillColor: getDiffColor(p.ratio),
-      weight: 1,
+      weight: p.approximated ? 2 : 1,
       opacity: 0.7,
-      color: "#666",
-      fillOpacity: 0.85,
+      color: p.approximated ? "#f90" : "#666",
+      dashArray: p.approximated ? "4 4" : undefined,
+      fillOpacity: p.approximated ? 0.7 : 0.85,
     };
   };
 
@@ -151,8 +230,11 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
     const label = p.valueMode === "absolute"
       ? `${sign}${Math.round(p.rawDiff)} voix`
       : `${sign}${(p.rawDiff * 100).toFixed(1)}pp`;
+    const approxNote = p.approximated
+      ? `<br/><em>\u2248 approx. (${p.neighborCount} bureaux voisins)</em>`
+      : "";
     layer.bindTooltip(
-      `<strong>${p.name}</strong><br/>${label}`,
+      `<strong>${p.name}</strong><br/>${label}${approxNote}`,
       { sticky: true }
     );
   };
