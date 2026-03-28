@@ -1,0 +1,2092 @@
+[
+  {
+    "bureau_de_vote": "0919 - Bureau de vote 0919",
+    "inscrits": 884,
+    "procurations": 18,
+    "votants": 529,
+    "nuls": 27,
+    "exprimes": 502,
+    "garnier": 184,
+    "rolland": 318
+  },
+  {
+    "bureau_de_vote": "0514 - Bureau de vote 0514",
+    "inscrits": 729,
+    "procurations": 6,
+    "votants": 281,
+    "nuls": 15,
+    "exprimes": 266,
+    "garnier": 79,
+    "rolland": 187
+  },
+  {
+    "bureau_de_vote": "0920 - Bureau de vote 0920",
+    "inscrits": 744,
+    "procurations": 5,
+    "votants": 401,
+    "nuls": 22,
+    "exprimes": 379,
+    "garnier": 111,
+    "rolland": 268
+  },
+  {
+    "bureau_de_vote": "1007 - Bureau de vote 1007",
+    "inscrits": 767,
+    "procurations": 9,
+    "votants": 417,
+    "nuls": 20,
+    "exprimes": 397,
+    "garnier": 172,
+    "rolland": 225
+  },
+  {
+    "bureau_de_vote": "0315 - Bureau de vote 0315",
+    "inscrits": 1071,
+    "procurations": 7,
+    "votants": 519,
+    "nuls": 30,
+    "exprimes": 489,
+    "garnier": 158,
+    "rolland": 331
+  },
+  {
+    "bureau_de_vote": "0706 - Bureau de vote 0706",
+    "inscrits": 944,
+    "procurations": 1,
+    "votants": 312,
+    "nuls": 12,
+    "exprimes": 300,
+    "garnier": 80,
+    "rolland": 220
+  },
+  {
+    "bureau_de_vote": "0508 - Bureau de vote 0508",
+    "inscrits": 804,
+    "procurations": 10,
+    "votants": 402,
+    "nuls": 31,
+    "exprimes": 371,
+    "garnier": 134,
+    "rolland": 237
+  },
+  {
+    "bureau_de_vote": "0214 - Bureau de vote 0214",
+    "inscrits": 751,
+    "procurations": 11,
+    "votants": 455,
+    "nuls": 29,
+    "exprimes": 426,
+    "garnier": 202,
+    "rolland": 224
+  },
+  {
+    "bureau_de_vote": "0711 - Bureau de vote 0711",
+    "inscrits": 786,
+    "procurations": 15,
+    "votants": 492,
+    "nuls": 27,
+    "exprimes": 465,
+    "garnier": 213,
+    "rolland": 252
+  },
+  {
+    "bureau_de_vote": "0218 - Bureau de vote 0218",
+    "inscrits": 887,
+    "procurations": 13,
+    "votants": 494,
+    "nuls": 22,
+    "exprimes": 472,
+    "garnier": 181,
+    "rolland": 291
+  },
+  {
+    "bureau_de_vote": "0410 - Bureau de vote 0410",
+    "inscrits": 893,
+    "procurations": 25,
+    "votants": 544,
+    "nuls": 31,
+    "exprimes": 513,
+    "garnier": 259,
+    "rolland": 254
+  },
+  {
+    "bureau_de_vote": "0702 - Bureau de vote 0702",
+    "inscrits": 968,
+    "procurations": 12,
+    "votants": 483,
+    "nuls": 25,
+    "exprimes": 458,
+    "garnier": 151,
+    "rolland": 307
+  },
+  {
+    "bureau_de_vote": "0209 - Bureau de vote 0209",
+    "inscrits": 785,
+    "procurations": 22,
+    "votants": 512,
+    "nuls": 26,
+    "exprimes": 486,
+    "garnier": 238,
+    "rolland": 248
+  },
+  {
+    "bureau_de_vote": "0312 - Bureau de vote 0312",
+    "inscrits": 882,
+    "procurations": 10,
+    "votants": 504,
+    "nuls": 34,
+    "exprimes": 470,
+    "garnier": 206,
+    "rolland": 264
+  },
+  {
+    "bureau_de_vote": "0112 - Bureau de vote 0112",
+    "inscrits": 793,
+    "procurations": 19,
+    "votants": 529,
+    "nuls": 20,
+    "exprimes": 509,
+    "garnier": 309,
+    "rolland": 200
+  },
+  {
+    "bureau_de_vote": "0904 - Bureau de vote 0904",
+    "inscrits": 763,
+    "procurations": 21,
+    "votants": 514,
+    "nuls": 14,
+    "exprimes": 500,
+    "garnier": 256,
+    "rolland": 244
+  },
+  {
+    "bureau_de_vote": "0914 - Bureau de vote 0914",
+    "inscrits": 866,
+    "procurations": 8,
+    "votants": 515,
+    "nuls": 33,
+    "exprimes": 482,
+    "garnier": 186,
+    "rolland": 296
+  },
+  {
+    "bureau_de_vote": "1115 - Bureau de vote 1115",
+    "inscrits": 827,
+    "procurations": 15,
+    "votants": 487,
+    "nuls": 28,
+    "exprimes": 459,
+    "garnier": 239,
+    "rolland": 220
+  },
+  {
+    "bureau_de_vote": "0423 - Bureau de vote 0423",
+    "inscrits": 940,
+    "procurations": 14,
+    "votants": 440,
+    "nuls": 26,
+    "exprimes": 414,
+    "garnier": 135,
+    "rolland": 279
+  },
+  {
+    "bureau_de_vote": "0609 - Bureau de vote 0609",
+    "inscrits": 698,
+    "procurations": 4,
+    "votants": 424,
+    "nuls": 20,
+    "exprimes": 404,
+    "garnier": 175,
+    "rolland": 229
+  },
+  {
+    "bureau_de_vote": "0916 - Bureau de vote 0916",
+    "inscrits": 967,
+    "procurations": 17,
+    "votants": 636,
+    "nuls": 38,
+    "exprimes": 598,
+    "garnier": 244,
+    "rolland": 354
+  },
+  {
+    "bureau_de_vote": "0408 - Bureau de vote 0408",
+    "inscrits": 1209,
+    "procurations": 25,
+    "votants": 684,
+    "nuls": 38,
+    "exprimes": 646,
+    "garnier": 272,
+    "rolland": 374
+  },
+  {
+    "bureau_de_vote": "0816 - Bureau de vote 0816",
+    "inscrits": 784,
+    "procurations": 12,
+    "votants": 493,
+    "nuls": 30,
+    "exprimes": 463,
+    "garnier": 212,
+    "rolland": 251
+  },
+  {
+    "bureau_de_vote": "0907 - Bureau de vote 0907",
+    "inscrits": 968,
+    "procurations": 8,
+    "votants": 429,
+    "nuls": 29,
+    "exprimes": 400,
+    "garnier": 135,
+    "rolland": 265
+  },
+  {
+    "bureau_de_vote": "0205 - Bureau de vote 0205",
+    "inscrits": 1060,
+    "procurations": 36,
+    "votants": 576,
+    "nuls": 38,
+    "exprimes": 538,
+    "garnier": 304,
+    "rolland": 234
+  },
+  {
+    "bureau_de_vote": "0401 - Bureau de vote 0401",
+    "inscrits": 824,
+    "procurations": 21,
+    "votants": 438,
+    "nuls": 22,
+    "exprimes": 416,
+    "garnier": 233,
+    "rolland": 183
+  },
+  {
+    "bureau_de_vote": "0404 - Bureau de vote 0404",
+    "inscrits": 947,
+    "procurations": 34,
+    "votants": 582,
+    "nuls": 21,
+    "exprimes": 561,
+    "garnier": 375,
+    "rolland": 186
+  },
+  {
+    "bureau_de_vote": "0321 - Bureau de vote 0321",
+    "inscrits": 833,
+    "procurations": 4,
+    "votants": 370,
+    "nuls": 21,
+    "exprimes": 349,
+    "garnier": 134,
+    "rolland": 215
+  },
+  {
+    "bureau_de_vote": "1109 - Bureau de vote 1109",
+    "inscrits": 523,
+    "procurations": 3,
+    "votants": 196,
+    "nuls": 14,
+    "exprimes": 182,
+    "garnier": 50,
+    "rolland": 132
+  },
+  {
+    "bureau_de_vote": "0607 - Bureau de vote 0607",
+    "inscrits": 904,
+    "procurations": 7,
+    "votants": 492,
+    "nuls": 31,
+    "exprimes": 461,
+    "garnier": 188,
+    "rolland": 273
+  },
+  {
+    "bureau_de_vote": "0511 - Bureau de vote 0511",
+    "inscrits": 1155,
+    "procurations": 10,
+    "votants": 528,
+    "nuls": 32,
+    "exprimes": 496,
+    "garnier": 164,
+    "rolland": 332
+  },
+  {
+    "bureau_de_vote": "0803 - Bureau de vote 0803",
+    "inscrits": 724,
+    "procurations": 11,
+    "votants": 414,
+    "nuls": 17,
+    "exprimes": 397,
+    "garnier": 146,
+    "rolland": 251
+  },
+  {
+    "bureau_de_vote": "0714 - Bureau de vote 0714",
+    "inscrits": 785,
+    "procurations": 16,
+    "votants": 405,
+    "nuls": 24,
+    "exprimes": 381,
+    "garnier": 159,
+    "rolland": 222
+  },
+  {
+    "bureau_de_vote": "0808 - Bureau de vote 0808",
+    "inscrits": 1157,
+    "procurations": 27,
+    "votants": 652,
+    "nuls": 38,
+    "exprimes": 614,
+    "garnier": 275,
+    "rolland": 339
+  },
+  {
+    "bureau_de_vote": "0203 - Bureau de vote 0203",
+    "inscrits": 1229,
+    "procurations": 15,
+    "votants": 707,
+    "nuls": 59,
+    "exprimes": 648,
+    "garnier": 260,
+    "rolland": 388
+  },
+  {
+    "bureau_de_vote": "0422 - Bureau de vote 0422",
+    "inscrits": 944,
+    "procurations": 11,
+    "votants": 517,
+    "nuls": 32,
+    "exprimes": 485,
+    "garnier": 190,
+    "rolland": 295
+  },
+  {
+    "bureau_de_vote": "0503 - Bureau de vote 0503",
+    "inscrits": 911,
+    "procurations": 13,
+    "votants": 534,
+    "nuls": 36,
+    "exprimes": 498,
+    "garnier": 187,
+    "rolland": 311
+  },
+  {
+    "bureau_de_vote": "0407 - Bureau de vote 0407",
+    "inscrits": 1041,
+    "procurations": 13,
+    "votants": 574,
+    "nuls": 24,
+    "exprimes": 550,
+    "garnier": 212,
+    "rolland": 338
+  },
+  {
+    "bureau_de_vote": "1001 - Bureau de vote 1001",
+    "inscrits": 883,
+    "procurations": 9,
+    "votants": 432,
+    "nuls": 28,
+    "exprimes": 404,
+    "garnier": 148,
+    "rolland": 256
+  },
+  {
+    "bureau_de_vote": "0409 - Bureau de vote 0409",
+    "inscrits": 951,
+    "procurations": 18,
+    "votants": 526,
+    "nuls": 17,
+    "exprimes": 509,
+    "garnier": 326,
+    "rolland": 183
+  },
+  {
+    "bureau_de_vote": "0915 - Bureau de vote 0915",
+    "inscrits": 788,
+    "procurations": 3,
+    "votants": 427,
+    "nuls": 34,
+    "exprimes": 393,
+    "garnier": 125,
+    "rolland": 268
+  },
+  {
+    "bureau_de_vote": "0224 - Bureau de vote 0224",
+    "inscrits": 849,
+    "procurations": 8,
+    "votants": 409,
+    "nuls": 27,
+    "exprimes": 382,
+    "garnier": 135,
+    "rolland": 247
+  },
+  {
+    "bureau_de_vote": "0304 - Bureau de vote 0304",
+    "inscrits": 628,
+    "procurations": 18,
+    "votants": 328,
+    "nuls": 23,
+    "exprimes": 305,
+    "garnier": 121,
+    "rolland": 184
+  },
+  {
+    "bureau_de_vote": "0311 - Bureau de vote 0311",
+    "inscrits": 920,
+    "procurations": 6,
+    "votants": 466,
+    "nuls": 27,
+    "exprimes": 439,
+    "garnier": 151,
+    "rolland": 288
+  },
+  {
+    "bureau_de_vote": "0709 - Bureau de vote 0709",
+    "inscrits": 1046,
+    "procurations": 10,
+    "votants": 486,
+    "nuls": 41,
+    "exprimes": 445,
+    "garnier": 141,
+    "rolland": 304
+  },
+  {
+    "bureau_de_vote": "0109 - Bureau de vote 0109",
+    "inscrits": 623,
+    "procurations": 9,
+    "votants": 346,
+    "nuls": 15,
+    "exprimes": 331,
+    "garnier": 158,
+    "rolland": 173
+  },
+  {
+    "bureau_de_vote": "0411 - Bureau de vote 0411",
+    "inscrits": 940,
+    "procurations": 35,
+    "votants": 533,
+    "nuls": 17,
+    "exprimes": 516,
+    "garnier": 311,
+    "rolland": 205
+  },
+  {
+    "bureau_de_vote": "0415 - Bureau de vote 0415",
+    "inscrits": 1016,
+    "procurations": 36,
+    "votants": 622,
+    "nuls": 17,
+    "exprimes": 605,
+    "garnier": 457,
+    "rolland": 148
+  },
+  {
+    "bureau_de_vote": "0905 - Bureau de vote 0905",
+    "inscrits": 598,
+    "procurations": 10,
+    "votants": 351,
+    "nuls": 13,
+    "exprimes": 338,
+    "garnier": 131,
+    "rolland": 207
+  },
+  {
+    "bureau_de_vote": "0603 - Bureau de vote 0603",
+    "inscrits": 710,
+    "procurations": 8,
+    "votants": 309,
+    "nuls": 17,
+    "exprimes": 292,
+    "garnier": 115,
+    "rolland": 177
+  },
+  {
+    "bureau_de_vote": "0619 - Bureau de vote 0619",
+    "inscrits": 860,
+    "procurations": 11,
+    "votants": 523,
+    "nuls": 37,
+    "exprimes": 486,
+    "garnier": 186,
+    "rolland": 300
+  },
+  {
+    "bureau_de_vote": "0202 - Bureau de vote 0202",
+    "inscrits": 741,
+    "procurations": 27,
+    "votants": 390,
+    "nuls": 14,
+    "exprimes": 376,
+    "garnier": 193,
+    "rolland": 183
+  },
+  {
+    "bureau_de_vote": "0302 - Bureau de vote 0302",
+    "inscrits": 840,
+    "procurations": 11,
+    "votants": 379,
+    "nuls": 17,
+    "exprimes": 362,
+    "garnier": 126,
+    "rolland": 236
+  },
+  {
+    "bureau_de_vote": "0119 - Bureau de vote 0119",
+    "inscrits": 881,
+    "procurations": 18,
+    "votants": 504,
+    "nuls": 21,
+    "exprimes": 483,
+    "garnier": 216,
+    "rolland": 267
+  },
+  {
+    "bureau_de_vote": "0707 - Bureau de vote 0707",
+    "inscrits": 1164,
+    "procurations": 5,
+    "votants": 426,
+    "nuls": 24,
+    "exprimes": 402,
+    "garnier": 125,
+    "rolland": 277
+  },
+  {
+    "bureau_de_vote": "0223 - Bureau de vote 0223",
+    "inscrits": 1043,
+    "procurations": 13,
+    "votants": 533,
+    "nuls": 29,
+    "exprimes": 504,
+    "garnier": 162,
+    "rolland": 342
+  },
+  {
+    "bureau_de_vote": "0305 - Bureau de vote 0305",
+    "inscrits": 675,
+    "procurations": 8,
+    "votants": 341,
+    "nuls": 15,
+    "exprimes": 326,
+    "garnier": 155,
+    "rolland": 171
+  },
+  {
+    "bureau_de_vote": "0413 - Bureau de vote 0413",
+    "inscrits": 1026,
+    "procurations": 28,
+    "votants": 556,
+    "nuls": 28,
+    "exprimes": 528,
+    "garnier": 285,
+    "rolland": 243
+  },
+  {
+    "bureau_de_vote": "0421 - Bureau de vote 0421",
+    "inscrits": 975,
+    "procurations": 28,
+    "votants": 551,
+    "nuls": 32,
+    "exprimes": 519,
+    "garnier": 295,
+    "rolland": 224
+  },
+  {
+    "bureau_de_vote": "0507 - Bureau de vote 0507",
+    "inscrits": 975,
+    "procurations": 29,
+    "votants": 594,
+    "nuls": 42,
+    "exprimes": 552,
+    "garnier": 192,
+    "rolland": 360
+  },
+  {
+    "bureau_de_vote": "0116 - Bureau de vote 0116",
+    "inscrits": 797,
+    "procurations": 20,
+    "votants": 473,
+    "nuls": 13,
+    "exprimes": 460,
+    "garnier": 274,
+    "rolland": 186
+  },
+  {
+    "bureau_de_vote": "0316 - Bureau de vote 0316",
+    "inscrits": 720,
+    "procurations": 16,
+    "votants": 363,
+    "nuls": 16,
+    "exprimes": 347,
+    "garnier": 113,
+    "rolland": 234
+  },
+  {
+    "bureau_de_vote": "0105 - Bureau de vote 0105",
+    "inscrits": 841,
+    "procurations": 21,
+    "votants": 440,
+    "nuls": 21,
+    "exprimes": 419,
+    "garnier": 176,
+    "rolland": 243
+  },
+  {
+    "bureau_de_vote": "0303 - Bureau de vote 0303",
+    "inscrits": 789,
+    "procurations": 16,
+    "votants": 387,
+    "nuls": 19,
+    "exprimes": 368,
+    "garnier": 149,
+    "rolland": 219
+  },
+  {
+    "bureau_de_vote": "0911 - Bureau de vote 0911",
+    "inscrits": 918,
+    "procurations": 8,
+    "votants": 486,
+    "nuls": 26,
+    "exprimes": 460,
+    "garnier": 213,
+    "rolland": 247
+  },
+  {
+    "bureau_de_vote": "0510 - Bureau de vote 0510",
+    "inscrits": 1192,
+    "procurations": 10,
+    "votants": 668,
+    "nuls": 66,
+    "exprimes": 602,
+    "garnier": 192,
+    "rolland": 410
+  },
+  {
+    "bureau_de_vote": "0110 - Bureau de vote 0110",
+    "inscrits": 698,
+    "procurations": 9,
+    "votants": 398,
+    "nuls": 25,
+    "exprimes": 373,
+    "garnier": 169,
+    "rolland": 204
+  },
+  {
+    "bureau_de_vote": "0509 - Bureau de vote 0509",
+    "inscrits": 928,
+    "procurations": 13,
+    "votants": 544,
+    "nuls": 24,
+    "exprimes": 520,
+    "garnier": 234,
+    "rolland": 286
+  },
+  {
+    "bureau_de_vote": "0715 - Bureau de vote 0715",
+    "inscrits": 760,
+    "procurations": 9,
+    "votants": 423,
+    "nuls": 14,
+    "exprimes": 409,
+    "garnier": 163,
+    "rolland": 246
+  },
+  {
+    "bureau_de_vote": "0918 - Bureau de vote 0918",
+    "inscrits": 1119,
+    "procurations": 16,
+    "votants": 595,
+    "nuls": 34,
+    "exprimes": 561,
+    "garnier": 205,
+    "rolland": 356
+  },
+  {
+    "bureau_de_vote": "0222 - Bureau de vote 0222",
+    "inscrits": 935,
+    "procurations": 20,
+    "votants": 496,
+    "nuls": 37,
+    "exprimes": 459,
+    "garnier": 172,
+    "rolland": 287
+  },
+  {
+    "bureau_de_vote": "0416 - Bureau de vote 0416",
+    "inscrits": 939,
+    "procurations": 21,
+    "votants": 514,
+    "nuls": 17,
+    "exprimes": 497,
+    "garnier": 337,
+    "rolland": 160
+  },
+  {
+    "bureau_de_vote": "0512 - Bureau de vote 0512",
+    "inscrits": 766,
+    "procurations": 6,
+    "votants": 403,
+    "nuls": 17,
+    "exprimes": 386,
+    "garnier": 93,
+    "rolland": 293
+  },
+  {
+    "bureau_de_vote": "0504 - Bureau de vote 0504",
+    "inscrits": 996,
+    "procurations": 19,
+    "votants": 613,
+    "nuls": 38,
+    "exprimes": 575,
+    "garnier": 195,
+    "rolland": 380
+  },
+  {
+    "bureau_de_vote": "0908 - Bureau de vote 0908",
+    "inscrits": 703,
+    "procurations": 2,
+    "votants": 233,
+    "nuls": 14,
+    "exprimes": 219,
+    "garnier": 62,
+    "rolland": 157
+  },
+  {
+    "bureau_de_vote": "0111 - Bureau de vote 0111",
+    "inscrits": 648,
+    "procurations": 13,
+    "votants": 357,
+    "nuls": 13,
+    "exprimes": 344,
+    "garnier": 199,
+    "rolland": 145
+  },
+  {
+    "bureau_de_vote": "0106 - Bureau de vote 0106",
+    "inscrits": 746,
+    "procurations": 26,
+    "votants": 499,
+    "nuls": 28,
+    "exprimes": 471,
+    "garnier": 262,
+    "rolland": 209
+  },
+  {
+    "bureau_de_vote": "0310 - Bureau de vote 0310",
+    "inscrits": 1043,
+    "procurations": 10,
+    "votants": 493,
+    "nuls": 25,
+    "exprimes": 468,
+    "garnier": 121,
+    "rolland": 347
+  },
+  {
+    "bureau_de_vote": "0206 - Bureau de vote 0206",
+    "inscrits": 859,
+    "procurations": 36,
+    "votants": 467,
+    "nuls": 21,
+    "exprimes": 446,
+    "garnier": 214,
+    "rolland": 232
+  },
+  {
+    "bureau_de_vote": "0115 - Bureau de vote 0115",
+    "inscrits": 792,
+    "procurations": 14,
+    "votants": 485,
+    "nuls": 16,
+    "exprimes": 470,
+    "garnier": 280,
+    "rolland": 190
+  },
+  {
+    "bureau_de_vote": "0815 - Bureau de vote 0815",
+    "inscrits": 1090,
+    "procurations": 9,
+    "votants": 647,
+    "nuls": 37,
+    "exprimes": 610,
+    "garnier": 217,
+    "rolland": 393
+  },
+  {
+    "bureau_de_vote": "0819 - Bureau de vote 0819",
+    "inscrits": 861,
+    "procurations": 5,
+    "votants": 432,
+    "nuls": 28,
+    "exprimes": 404,
+    "garnier": 120,
+    "rolland": 284
+  },
+  {
+    "bureau_de_vote": "0114 - Bureau de vote 0114",
+    "inscrits": 646,
+    "procurations": 13,
+    "votants": 377,
+    "nuls": 12,
+    "exprimes": 365,
+    "garnier": 211,
+    "rolland": 154
+  },
+  {
+    "bureau_de_vote": "0506 - Bureau de vote 0506",
+    "inscrits": 944,
+    "procurations": 8,
+    "votants": 400,
+    "nuls": 26,
+    "exprimes": 374,
+    "garnier": 114,
+    "rolland": 260
+  },
+  {
+    "bureau_de_vote": "0615 - Bureau de vote 0615",
+    "inscrits": 919,
+    "procurations": 23,
+    "votants": 548,
+    "nuls": 41,
+    "exprimes": 507,
+    "garnier": 267,
+    "rolland": 240
+  },
+  {
+    "bureau_de_vote": "0617 - Bureau de vote 0617",
+    "inscrits": 1029,
+    "procurations": 28,
+    "votants": 616,
+    "nuls": 42,
+    "exprimes": 574,
+    "garnier": 314,
+    "rolland": 260
+  },
+  {
+    "bureau_de_vote": "0513 - Bureau de vote 0513",
+    "inscrits": 890,
+    "procurations": 9,
+    "votants": 429,
+    "nuls": 35,
+    "exprimes": 394,
+    "garnier": 100,
+    "rolland": 294
+  },
+  {
+    "bureau_de_vote": "0220 - Bureau de vote 0220",
+    "inscrits": 922,
+    "procurations": 6,
+    "votants": 400,
+    "nuls": 26,
+    "exprimes": 374,
+    "garnier": 87,
+    "rolland": 287
+  },
+  {
+    "bureau_de_vote": "0813 - Bureau de vote 0813",
+    "inscrits": 694,
+    "procurations": 3,
+    "votants": 255,
+    "nuls": 10,
+    "exprimes": 245,
+    "garnier": 84,
+    "rolland": 161
+  },
+  {
+    "bureau_de_vote": "1002 - Bureau de vote 1002",
+    "inscrits": 838,
+    "procurations": 16,
+    "votants": 443,
+    "nuls": 29,
+    "exprimes": 414,
+    "garnier": 150,
+    "rolland": 264
+  },
+  {
+    "bureau_de_vote": "1107 - Bureau de vote 1107",
+    "inscrits": 761,
+    "procurations": 6,
+    "votants": 446,
+    "nuls": 30,
+    "exprimes": 416,
+    "garnier": 156,
+    "rolland": 260
+  },
+  {
+    "bureau_de_vote": "0118 - Bureau de vote 0118",
+    "inscrits": 764,
+    "procurations": 19,
+    "votants": 488,
+    "nuls": 19,
+    "exprimes": 469,
+    "garnier": 228,
+    "rolland": 241
+  },
+  {
+    "bureau_de_vote": "0602 - Bureau de vote 0602",
+    "inscrits": 731,
+    "procurations": 3,
+    "votants": 340,
+    "nuls": 20,
+    "exprimes": 320,
+    "garnier": 133,
+    "rolland": 187
+  },
+  {
+    "bureau_de_vote": "1009 - Bureau de vote 1009",
+    "inscrits": 568,
+    "procurations": 3,
+    "votants": 315,
+    "nuls": 20,
+    "exprimes": 295,
+    "garnier": 93,
+    "rolland": 202
+  },
+  {
+    "bureau_de_vote": "1112 - Bureau de vote 1112",
+    "inscrits": 793,
+    "procurations": 11,
+    "votants": 396,
+    "nuls": 22,
+    "exprimes": 374,
+    "garnier": 172,
+    "rolland": 202
+  },
+  {
+    "bureau_de_vote": "0107 - Bureau de vote 0107",
+    "inscrits": 778,
+    "procurations": 31,
+    "votants": 451,
+    "nuls": 23,
+    "exprimes": 428,
+    "garnier": 211,
+    "rolland": 217
+  },
+  {
+    "bureau_de_vote": "0308 - Bureau de vote 0308",
+    "inscrits": 1179,
+    "procurations": 16,
+    "votants": 593,
+    "nuls": 47,
+    "exprimes": 546,
+    "garnier": 152,
+    "rolland": 394
+  },
+  {
+    "bureau_de_vote": "0420 - Bureau de vote 0420",
+    "inscrits": 885,
+    "procurations": 29,
+    "votants": 531,
+    "nuls": 24,
+    "exprimes": 507,
+    "garnier": 340,
+    "rolland": 167
+  },
+  {
+    "bureau_de_vote": "1111 - Bureau de vote 1111",
+    "inscrits": 688,
+    "procurations": 2,
+    "votants": 225,
+    "nuls": 18,
+    "exprimes": 207,
+    "garnier": 51,
+    "rolland": 156
+  },
+  {
+    "bureau_de_vote": "0414 - Bureau de vote 0414",
+    "inscrits": 1058,
+    "procurations": 29,
+    "votants": 647,
+    "nuls": 27,
+    "exprimes": 620,
+    "garnier": 406,
+    "rolland": 214
+  },
+  {
+    "bureau_de_vote": "0704 - Bureau de vote 0704",
+    "inscrits": 658,
+    "procurations": 0,
+    "votants": 262,
+    "nuls": 18,
+    "exprimes": 244,
+    "garnier": 72,
+    "rolland": 172
+  },
+  {
+    "bureau_de_vote": "0804 - Bureau de vote 0804",
+    "inscrits": 930,
+    "procurations": 26,
+    "votants": 500,
+    "nuls": 25,
+    "exprimes": 475,
+    "garnier": 204,
+    "rolland": 271
+  },
+  {
+    "bureau_de_vote": "0306 - Bureau de vote 0306",
+    "inscrits": 901,
+    "procurations": 17,
+    "votants": 470,
+    "nuls": 14,
+    "exprimes": 456,
+    "garnier": 241,
+    "rolland": 215
+  },
+  {
+    "bureau_de_vote": "0807 - Bureau de vote 0807",
+    "inscrits": 1101,
+    "procurations": 18,
+    "votants": 668,
+    "nuls": 27,
+    "exprimes": 641,
+    "garnier": 286,
+    "rolland": 355
+  },
+  {
+    "bureau_de_vote": "0616 - Bureau de vote 0616",
+    "inscrits": 1024,
+    "procurations": 16,
+    "votants": 529,
+    "nuls": 33,
+    "exprimes": 496,
+    "garnier": 215,
+    "rolland": 281
+  },
+  {
+    "bureau_de_vote": "0802 - Bureau de vote 0802",
+    "inscrits": 621,
+    "procurations": 2,
+    "votants": 248,
+    "nuls": 10,
+    "exprimes": 238,
+    "garnier": 56,
+    "rolland": 182
+  },
+  {
+    "bureau_de_vote": "0405 - Bureau de vote 0405",
+    "inscrits": 1169,
+    "procurations": 41,
+    "votants": 718,
+    "nuls": 15,
+    "exprimes": 703,
+    "garnier": 506,
+    "rolland": 197
+  },
+  {
+    "bureau_de_vote": "0412 - Bureau de vote 0412",
+    "inscrits": 915,
+    "procurations": 17,
+    "votants": 519,
+    "nuls": 15,
+    "exprimes": 504,
+    "garnier": 292,
+    "rolland": 212
+  },
+  {
+    "bureau_de_vote": "0417 - Bureau de vote 0417",
+    "inscrits": 979,
+    "procurations": 16,
+    "votants": 563,
+    "nuls": 15,
+    "exprimes": 548,
+    "garnier": 279,
+    "rolland": 269
+  },
+  {
+    "bureau_de_vote": "1008 - Bureau de vote 1008",
+    "inscrits": 682,
+    "procurations": 7,
+    "votants": 341,
+    "nuls": 18,
+    "exprimes": 323,
+    "garnier": 133,
+    "rolland": 190
+  },
+  {
+    "bureau_de_vote": "1113 - Bureau de vote 1113",
+    "inscrits": 992,
+    "procurations": 10,
+    "votants": 517,
+    "nuls": 27,
+    "exprimes": 490,
+    "garnier": 250,
+    "rolland": 240
+  },
+  {
+    "bureau_de_vote": "0613 - Bureau de vote 0613",
+    "inscrits": 1043,
+    "procurations": 23,
+    "votants": 614,
+    "nuls": 17,
+    "exprimes": 597,
+    "garnier": 343,
+    "rolland": 254
+  },
+  {
+    "bureau_de_vote": "1101 - Bureau de vote 1101",
+    "inscrits": 639,
+    "procurations": 9,
+    "votants": 317,
+    "nuls": 21,
+    "exprimes": 296,
+    "garnier": 98,
+    "rolland": 198
+  },
+  {
+    "bureau_de_vote": "0614 - Bureau de vote 0614",
+    "inscrits": 1002,
+    "procurations": 28,
+    "votants": 612,
+    "nuls": 27,
+    "exprimes": 585,
+    "garnier": 358,
+    "rolland": 227
+  },
+  {
+    "bureau_de_vote": "0913 - Bureau de vote 0913",
+    "inscrits": 1111,
+    "procurations": 9,
+    "votants": 655,
+    "nuls": 40,
+    "exprimes": 615,
+    "garnier": 182,
+    "rolland": 433
+  },
+  {
+    "bureau_de_vote": "1106 - Bureau de vote 1106",
+    "inscrits": 660,
+    "procurations": 12,
+    "votants": 416,
+    "nuls": 33,
+    "exprimes": 383,
+    "garnier": 177,
+    "rolland": 206
+  },
+  {
+    "bureau_de_vote": "0612 - Bureau de vote 0612",
+    "inscrits": 978,
+    "procurations": 30,
+    "votants": 611,
+    "nuls": 19,
+    "exprimes": 592,
+    "garnier": 370,
+    "rolland": 222
+  },
+  {
+    "bureau_de_vote": "0924 - Bureau de vote 0924",
+    "inscrits": 647,
+    "procurations": 7,
+    "votants": 378,
+    "nuls": 16,
+    "exprimes": 362,
+    "garnier": 140,
+    "rolland": 222
+  },
+  {
+    "bureau_de_vote": "0817 - Bureau de vote 0817",
+    "inscrits": 969,
+    "procurations": null,
+    "votants": 476,
+    "nuls": 37,
+    "exprimes": 439,
+    "garnier": 166,
+    "rolland": 273
+  },
+  {
+    "bureau_de_vote": "0211 - Bureau de vote 0211",
+    "inscrits": 774,
+    "procurations": 17,
+    "votants": 422,
+    "nuls": 15,
+    "exprimes": 407,
+    "garnier": 265,
+    "rolland": 142
+  },
+  {
+    "bureau_de_vote": "0814 - Bureau de vote 0814",
+    "inscrits": 1239,
+    "procurations": 21,
+    "votants": 728,
+    "nuls": 48,
+    "exprimes": 680,
+    "garnier": 241,
+    "rolland": 439
+  },
+  {
+    "bureau_de_vote": "0708 - Bureau de vote 0708",
+    "inscrits": 668,
+    "procurations": 3,
+    "votants": 309,
+    "nuls": 19,
+    "exprimes": 290,
+    "garnier": 75,
+    "rolland": 215
+  },
+  {
+    "bureau_de_vote": "0611 - Bureau de vote 0611",
+    "inscrits": 1016,
+    "procurations": 25,
+    "votants": 605,
+    "nuls": 20,
+    "exprimes": 585,
+    "garnier": 394,
+    "rolland": 191
+  },
+  {
+    "bureau_de_vote": "0108 - Bureau de vote 0108",
+    "inscrits": 598,
+    "procurations": 7,
+    "votants": 332,
+    "nuls": 17,
+    "exprimes": 315,
+    "garnier": 123,
+    "rolland": 192
+  },
+  {
+    "bureau_de_vote": "0910 - Bureau de vote 0910",
+    "inscrits": 757,
+    "procurations": 10,
+    "votants": 385,
+    "nuls": 24,
+    "exprimes": 361,
+    "garnier": 139,
+    "rolland": 222
+  },
+  {
+    "bureau_de_vote": "0517 - Bureau de vote 0517",
+    "inscrits": 491,
+    "procurations": 2,
+    "votants": 193,
+    "nuls": 10,
+    "exprimes": 183,
+    "garnier": 56,
+    "rolland": 127
+  },
+  {
+    "bureau_de_vote": "0516 - Bureau de vote 0516",
+    "inscrits": 812,
+    "procurations": 7,
+    "votants": 270,
+    "nuls": 18,
+    "exprimes": 252,
+    "garnier": 66,
+    "rolland": 186
+  },
+  {
+    "bureau_de_vote": "0601 - Bureau de vote 0601",
+    "inscrits": 608,
+    "procurations": 7,
+    "votants": 223,
+    "nuls": 19,
+    "exprimes": 204,
+    "garnier": 60,
+    "rolland": 144
+  },
+  {
+    "bureau_de_vote": "0204 - Bureau de vote 0204",
+    "inscrits": 877,
+    "procurations": 17,
+    "votants": 488,
+    "nuls": 30,
+    "exprimes": 458,
+    "garnier": 215,
+    "rolland": 243
+  },
+  {
+    "bureau_de_vote": "0805 - Bureau de vote 0805",
+    "inscrits": 710,
+    "procurations": 15,
+    "votants": 479,
+    "nuls": 23,
+    "exprimes": 456,
+    "garnier": 263,
+    "rolland": 193
+  },
+  {
+    "bureau_de_vote": "0810 - Bureau de vote 0810",
+    "inscrits": 796,
+    "procurations": 10,
+    "votants": 433,
+    "nuls": 44,
+    "exprimes": 389,
+    "garnier": 144,
+    "rolland": 245
+  },
+  {
+    "bureau_de_vote": "0418 - Bureau de vote 0418",
+    "inscrits": 850,
+    "procurations": 26,
+    "votants": 503,
+    "nuls": 15,
+    "exprimes": 488,
+    "garnier": 286,
+    "rolland": 202
+  },
+  {
+    "bureau_de_vote": "0809 - Bureau de vote 0809",
+    "inscrits": 795,
+    "procurations": 5,
+    "votants": 358,
+    "nuls": 22,
+    "exprimes": 336,
+    "garnier": 93,
+    "rolland": 243
+  },
+  {
+    "bureau_de_vote": "0902 - Bureau de vote 0902",
+    "inscrits": 794,
+    "procurations": 15,
+    "votants": 459,
+    "nuls": 30,
+    "exprimes": 429,
+    "garnier": 241,
+    "rolland": 188
+  },
+  {
+    "bureau_de_vote": "1006 - Bureau de vote 1006",
+    "inscrits": 684,
+    "procurations": 4,
+    "votants": 366,
+    "nuls": 26,
+    "exprimes": 340,
+    "garnier": 132,
+    "rolland": 208
+  },
+  {
+    "bureau_de_vote": "0701 - Bureau de vote 0701",
+    "inscrits": 795,
+    "procurations": 9,
+    "votants": 429,
+    "nuls": 28,
+    "exprimes": 401,
+    "garnier": 192,
+    "rolland": 209
+  },
+  {
+    "bureau_de_vote": "1005 - Bureau de vote 1005",
+    "inscrits": 718,
+    "procurations": 4,
+    "votants": 368,
+    "nuls": 19,
+    "exprimes": 349,
+    "garnier": 124,
+    "rolland": 225
+  },
+  {
+    "bureau_de_vote": "1105 - Bureau de vote 1105",
+    "inscrits": 687,
+    "procurations": 10,
+    "votants": 396,
+    "nuls": 24,
+    "exprimes": 372,
+    "garnier": 174,
+    "rolland": 198
+  },
+  {
+    "bureau_de_vote": "0705 - Bureau de vote 0705",
+    "inscrits": 748,
+    "procurations": 11,
+    "votants": 442,
+    "nuls": 31,
+    "exprimes": 411,
+    "garnier": 153,
+    "rolland": 258
+  },
+  {
+    "bureau_de_vote": "0901 - Bureau de vote 0901",
+    "inscrits": 748,
+    "procurations": 4,
+    "votants": 420,
+    "nuls": 26,
+    "exprimes": 394,
+    "garnier": 166,
+    "rolland": 228
+  },
+  {
+    "bureau_de_vote": "0909 - Bureau de vote 0909",
+    "inscrits": 612,
+    "procurations": 2,
+    "votants": 220,
+    "nuls": 13,
+    "exprimes": 207,
+    "garnier": 50,
+    "rolland": 157
+  },
+  {
+    "bureau_de_vote": "0922 - Bureau de vote 0922",
+    "inscrits": 1249,
+    "procurations": 19,
+    "votants": 745,
+    "nuls": 45,
+    "exprimes": 700,
+    "garnier": 250,
+    "rolland": 450
+  },
+  {
+    "bureau_de_vote": "0811 - Bureau de vote 0811",
+    "inscrits": 1152,
+    "procurations": 8,
+    "votants": 572,
+    "nuls": 48,
+    "exprimes": 524,
+    "garnier": 167,
+    "rolland": 357
+  },
+  {
+    "bureau_de_vote": "0102 - Bureau de vote 0102",
+    "inscrits": 1219,
+    "procurations": 24,
+    "votants": 664,
+    "nuls": 30,
+    "exprimes": 634,
+    "garnier": 284,
+    "rolland": 350
+  },
+  {
+    "bureau_de_vote": "0117 - Bureau de vote 0117",
+    "inscrits": 1019,
+    "procurations": 25,
+    "votants": 629,
+    "nuls": 31,
+    "exprimes": 598,
+    "garnier": 277,
+    "rolland": 321
+  },
+  {
+    "bureau_de_vote": "0501 - Bureau de vote 0501",
+    "inscrits": 1032,
+    "procurations": 12,
+    "votants": 590,
+    "nuls": 41,
+    "exprimes": 549,
+    "garnier": 218,
+    "rolland": 331
+  },
+  {
+    "bureau_de_vote": "1108 - Bureau de vote 1108",
+    "inscrits": 620,
+    "procurations": 3,
+    "votants": 192,
+    "nuls": 10,
+    "exprimes": 182,
+    "garnier": 46,
+    "rolland": 136
+  },
+  {
+    "bureau_de_vote": "0217 - Bureau de vote 0217",
+    "inscrits": 812,
+    "procurations": 20,
+    "votants": 491,
+    "nuls": 34,
+    "exprimes": 457,
+    "garnier": 189,
+    "rolland": 268
+  },
+  {
+    "bureau_de_vote": "0318 - Bureau de vote 0318",
+    "inscrits": 739,
+    "procurations": 12,
+    "votants": 377,
+    "nuls": 24,
+    "exprimes": 353,
+    "garnier": 104,
+    "rolland": 249
+  },
+  {
+    "bureau_de_vote": "0812 - Bureau de vote 0812",
+    "inscrits": 990,
+    "procurations": 12,
+    "votants": 536,
+    "nuls": 26,
+    "exprimes": 510,
+    "garnier": 211,
+    "rolland": 299
+  },
+  {
+    "bureau_de_vote": "0419 - Bureau de vote 0419",
+    "inscrits": 1322,
+    "procurations": 15,
+    "votants": 709,
+    "nuls": 42,
+    "exprimes": 667,
+    "garnier": 320,
+    "rolland": 347
+  },
+  {
+    "bureau_de_vote": "1104 - Bureau de vote 1104",
+    "inscrits": 800,
+    "procurations": 12,
+    "votants": 493,
+    "nuls": 29,
+    "exprimes": 464,
+    "garnier": 210,
+    "rolland": 254
+  },
+  {
+    "bureau_de_vote": "0207 - Bureau de vote 0207",
+    "inscrits": 872,
+    "procurations": 36,
+    "votants": 528,
+    "nuls": 20,
+    "exprimes": 508,
+    "garnier": 298,
+    "rolland": 210
+  },
+  {
+    "bureau_de_vote": "0605 - Bureau de vote 0605",
+    "inscrits": 1090,
+    "procurations": 16,
+    "votants": 608,
+    "nuls": 31,
+    "exprimes": 577,
+    "garnier": 328,
+    "rolland": 249
+  },
+  {
+    "bureau_de_vote": "1110 - Bureau de vote 1110",
+    "inscrits": 855,
+    "procurations": 13,
+    "votants": 403,
+    "nuls": 16,
+    "exprimes": 387,
+    "garnier": 184,
+    "rolland": 203
+  },
+  {
+    "bureau_de_vote": "0906 - Bureau de vote 0906",
+    "inscrits": 931,
+    "procurations": 6,
+    "votants": 355,
+    "nuls": 16,
+    "exprimes": 339,
+    "garnier": 118,
+    "rolland": 221
+  },
+  {
+    "bureau_de_vote": "0402 - Bureau de vote 0402",
+    "inscrits": 781,
+    "procurations": 21,
+    "votants": 488,
+    "nuls": 15,
+    "exprimes": 473,
+    "garnier": 331,
+    "rolland": 142
+  },
+  {
+    "bureau_de_vote": "0806 - Bureau de vote 0806",
+    "inscrits": 616,
+    "procurations": 11,
+    "votants": 348,
+    "nuls": 17,
+    "exprimes": 331,
+    "garnier": 151,
+    "rolland": 180
+  },
+  {
+    "bureau_de_vote": "0903 - Bureau de vote 0903",
+    "inscrits": 949,
+    "procurations": 14,
+    "votants": 496,
+    "nuls": 17,
+    "exprimes": 479,
+    "garnier": 226,
+    "rolland": 253
+  },
+  {
+    "bureau_de_vote": "0502 - Bureau de vote 0502",
+    "inscrits": 811,
+    "procurations": 13,
+    "votants": 484,
+    "nuls": 28,
+    "exprimes": 456,
+    "garnier": 151,
+    "rolland": 305
+  },
+  {
+    "bureau_de_vote": "0406 - Bureau de vote 0406",
+    "inscrits": 759,
+    "procurations": 14,
+    "votants": 461,
+    "nuls": 18,
+    "exprimes": 443,
+    "garnier": 315,
+    "rolland": 128
+  },
+  {
+    "bureau_de_vote": "0610 - Bureau de vote 0610",
+    "inscrits": 1110,
+    "procurations": 13,
+    "votants": 612,
+    "nuls": 39,
+    "exprimes": 573,
+    "garnier": 269,
+    "rolland": 304
+  },
+  {
+    "bureau_de_vote": "0403 - Bureau de vote 0403",
+    "inscrits": 923,
+    "procurations": 20,
+    "votants": 560,
+    "nuls": 32,
+    "exprimes": 528,
+    "garnier": 364,
+    "rolland": 164
+  },
+  {
+    "bureau_de_vote": "0921 - Bureau de vote 0921",
+    "inscrits": 956,
+    "procurations": 10,
+    "votants": 574,
+    "nuls": 26,
+    "exprimes": 548,
+    "garnier": 223,
+    "rolland": 325
+  },
+  {
+    "bureau_de_vote": "0319 - Bureau de vote 0319",
+    "inscrits": 1389,
+    "procurations": 19,
+    "votants": 722,
+    "nuls": 46,
+    "exprimes": 676,
+    "garnier": 176,
+    "rolland": 500
+  },
+  {
+    "bureau_de_vote": "0515 - Bureau de vote 0515",
+    "inscrits": 625,
+    "procurations": 8,
+    "votants": 293,
+    "nuls": 19,
+    "exprimes": 274,
+    "garnier": 71,
+    "rolland": 203
+  },
+  {
+    "bureau_de_vote": "0113 - Bureau de vote 0113",
+    "inscrits": 886,
+    "procurations": 34,
+    "votants": 505,
+    "nuls": 27,
+    "exprimes": 478,
+    "garnier": 292,
+    "rolland": 186
+  },
+  {
+    "bureau_de_vote": "0120 - Bureau de vote 0120",
+    "inscrits": 623,
+    "procurations": 21,
+    "votants": 357,
+    "nuls": 13,
+    "exprimes": 344,
+    "garnier": 163,
+    "rolland": 181
+  },
+  {
+    "bureau_de_vote": "0604 - Bureau de vote 0604",
+    "inscrits": 778,
+    "procurations": 4,
+    "votants": 399,
+    "nuls": 26,
+    "exprimes": 373,
+    "garnier": 205,
+    "rolland": 168
+  },
+  {
+    "bureau_de_vote": "0121 - Bureau de vote 0121",
+    "inscrits": 1075,
+    "procurations": 30,
+    "votants": 606,
+    "nuls": 18,
+    "exprimes": 588,
+    "garnier": 317,
+    "rolland": 271
+  },
+  {
+    "bureau_de_vote": "0216 - Bureau de vote 0216",
+    "inscrits": 875,
+    "procurations": 15,
+    "votants": 483,
+    "nuls": 25,
+    "exprimes": 458,
+    "garnier": 162,
+    "rolland": 296
+  },
+  {
+    "bureau_de_vote": "0201 - Bureau de vote 0201",
+    "inscrits": 1137,
+    "procurations": 26,
+    "votants": 627,
+    "nuls": 26,
+    "exprimes": 595,
+    "garnier": 250,
+    "rolland": 345
+  },
+  {
+    "bureau_de_vote": "0712 - Bureau de vote 0712",
+    "inscrits": 766,
+    "procurations": 11,
+    "votants": 382,
+    "nuls": 15,
+    "exprimes": 367,
+    "garnier": 140,
+    "rolland": 227
+  },
+  {
+    "bureau_de_vote": "0301 - Bureau de vote 0301",
+    "inscrits": 802,
+    "procurations": 14,
+    "votants": 404,
+    "nuls": 34,
+    "exprimes": 370,
+    "garnier": 135,
+    "rolland": 235
+  },
+  {
+    "bureau_de_vote": "0917 - Bureau de vote 0917",
+    "inscrits": 724,
+    "procurations": 13,
+    "votants": 442,
+    "nuls": 28,
+    "exprimes": 414,
+    "garnier": 143,
+    "rolland": 271
+  },
+  {
+    "bureau_de_vote": "1102 - Bureau de vote 1102",
+    "inscrits": 985,
+    "procurations": 11,
+    "votants": 447,
+    "nuls": 38,
+    "exprimes": 409,
+    "garnier": 139,
+    "rolland": 270
+  },
+  {
+    "bureau_de_vote": "0307 - Bureau de vote 0307",
+    "inscrits": 805,
+    "procurations": 16,
+    "votants": 433,
+    "nuls": 21,
+    "exprimes": 412,
+    "garnier": 207,
+    "rolland": 205
+  },
+  {
+    "bureau_de_vote": "0219 - Bureau de vote 0219",
+    "inscrits": 1067,
+    "procurations": 8,
+    "votants": 539,
+    "nuls": 34,
+    "exprimes": 505,
+    "garnier": 201,
+    "rolland": 304
+  },
+  {
+    "bureau_de_vote": "0213 - Bureau de vote 0213",
+    "inscrits": 837,
+    "procurations": 16,
+    "votants": 498,
+    "nuls": 22,
+    "exprimes": 476,
+    "garnier": 206,
+    "rolland": 270
+  },
+  {
+    "bureau_de_vote": "0208 - Bureau de vote 0208",
+    "inscrits": 722,
+    "procurations": 36,
+    "votants": 414,
+    "nuls": 13,
+    "exprimes": 401,
+    "garnier": 206,
+    "rolland": 195
+  },
+  {
+    "bureau_de_vote": "0210 - Bureau de vote 0210",
+    "inscrits": 729,
+    "procurations": 18,
+    "votants": 423,
+    "nuls": 18,
+    "exprimes": 405,
+    "garnier": 196,
+    "rolland": 209
+  },
+  {
+    "bureau_de_vote": "0103 - Bureau de vote 0103",
+    "inscrits": 781,
+    "procurations": 18,
+    "votants": 473,
+    "nuls": 24,
+    "exprimes": 449,
+    "garnier": 222,
+    "rolland": 227
+  },
+  {
+    "bureau_de_vote": "0215 - Bureau de vote 0215",
+    "inscrits": 595,
+    "procurations": 9,
+    "votants": 351,
+    "nuls": 22,
+    "exprimes": 329,
+    "garnier": 124,
+    "rolland": 205
+  },
+  {
+    "bureau_de_vote": "0518 - Bureau de vote 0518",
+    "inscrits": 649,
+    "procurations": 1,
+    "votants": 269,
+    "nuls": 23,
+    "exprimes": 246,
+    "garnier": 89,
+    "rolland": 157
+  },
+  {
+    "bureau_de_vote": "0212 - Bureau de vote 0212",
+    "inscrits": 858,
+    "procurations": 18,
+    "votants": 517,
+    "nuls": 24,
+    "exprimes": 493,
+    "garnier": 295,
+    "rolland": 198
+  },
+  {
+    "bureau_de_vote": "0912 - Bureau de vote 0912",
+    "inscrits": 870,
+    "procurations": 5,
+    "votants": 429,
+    "nuls": 36,
+    "exprimes": 393,
+    "garnier": 151,
+    "rolland": 242
+  },
+  {
+    "bureau_de_vote": "0221 - Bureau de vote 0221",
+    "inscrits": 1347,
+    "procurations": 5,
+    "votants": 572,
+    "nuls": 26,
+    "exprimes": 546,
+    "garnier": 143,
+    "rolland": 403
+  },
+  {
+    "bureau_de_vote": "0818 - Bureau de vote 0818",
+    "inscrits": 962,
+    "procurations": 14,
+    "votants": 530,
+    "nuls": 32,
+    "exprimes": 498,
+    "garnier": 219,
+    "rolland": 279
+  },
+  {
+    "bureau_de_vote": "0618 - Bureau de vote 0618",
+    "inscrits": 848,
+    "procurations": 11,
+    "votants": 522,
+    "nuls": 37,
+    "exprimes": 485,
+    "garnier": 209,
+    "rolland": 276
+  },
+  {
+    "bureau_de_vote": "1103 - Bureau de vote 1103",
+    "inscrits": 774,
+    "procurations": 14,
+    "votants": 449,
+    "nuls": 27,
+    "exprimes": 422,
+    "garnier": 183,
+    "rolland": 239
+  },
+  {
+    "bureau_de_vote": "0313 - Bureau de vote 0313",
+    "inscrits": 757,
+    "procurations": 2,
+    "votants": 393,
+    "nuls": 26,
+    "exprimes": 367,
+    "garnier": 151,
+    "rolland": 216
+  },
+  {
+    "bureau_de_vote": "1003 - Bureau de vote 1003",
+    "inscrits": 849,
+    "procurations": 5,
+    "votants": 337,
+    "nuls": 24,
+    "exprimes": 313,
+    "garnier": 88,
+    "rolland": 225
+  },
+  {
+    "bureau_de_vote": "0703 - Bureau de vote 0703",
+    "inscrits": 947,
+    "procurations": 17,
+    "votants": 559,
+    "nuls": 27,
+    "exprimes": 532,
+    "garnier": 237,
+    "rolland": 295
+  },
+  {
+    "bureau_de_vote": "0505 - Bureau de vote 0505",
+    "inscrits": 930,
+    "procurations": 14,
+    "votants": 540,
+    "nuls": 39,
+    "exprimes": 501,
+    "garnier": 181,
+    "rolland": 320
+  },
+  {
+    "bureau_de_vote": "0710 - Bureau de vote 0710",
+    "inscrits": 793,
+    "procurations": 4,
+    "votants": 321,
+    "nuls": 31,
+    "exprimes": 290,
+    "garnier": 72,
+    "rolland": 218
+  },
+  {
+    "bureau_de_vote": "1004 - Bureau de vote 1004",
+    "inscrits": 915,
+    "procurations": 5,
+    "votants": 484,
+    "nuls": 41,
+    "exprimes": 443,
+    "garnier": 159,
+    "rolland": 284
+  },
+  {
+    "bureau_de_vote": "0314 - Bureau de vote 0314",
+    "inscrits": 761,
+    "procurations": 7,
+    "votants": 404,
+    "nuls": 19,
+    "exprimes": 385,
+    "garnier": 169,
+    "rolland": 216
+  },
+  {
+    "bureau_de_vote": "0820 - Bureau de vote 0820",
+    "inscrits": 943,
+    "procurations": 7,
+    "votants": 551,
+    "nuls": 28,
+    "exprimes": 523,
+    "garnier": 272,
+    "rolland": 251
+  },
+  {
+    "bureau_de_vote": "0317 - Bureau de vote 0317",
+    "inscrits": 730,
+    "procurations": 7,
+    "votants": 350,
+    "nuls": 27,
+    "exprimes": 323,
+    "garnier": 91,
+    "rolland": 232
+  },
+  {
+    "bureau_de_vote": "0608 - Bureau de vote 0608",
+    "inscrits": 1027,
+    "procurations": 19,
+    "votants": 554,
+    "nuls": 37,
+    "exprimes": 517,
+    "garnier": 246,
+    "rolland": 271
+  },
+  {
+    "bureau_de_vote": "0320 - Bureau de vote 0320",
+    "inscrits": 807,
+    "procurations": 7,
+    "votants": 403,
+    "nuls": 17,
+    "exprimes": 386,
+    "garnier": 87,
+    "rolland": 299
+  },
+  {
+    "bureau_de_vote": "0923 - Bureau de vote 0923",
+    "inscrits": 1131,
+    "procurations": 12,
+    "votants": 637,
+    "nuls": 46,
+    "exprimes": 591,
+    "garnier": 215,
+    "rolland": 376
+  },
+  {
+    "bureau_de_vote": "0104 - Bureau de vote 0104",
+    "inscrits": 1093,
+    "procurations": 29,
+    "votants": 551,
+    "nuls": 29,
+    "exprimes": 522,
+    "garnier": 194,
+    "rolland": 328
+  },
+  {
+    "bureau_de_vote": "0309 - Bureau de vote 0309",
+    "inscrits": 732,
+    "procurations": 16,
+    "votants": 415,
+    "nuls": 16,
+    "exprimes": 399,
+    "garnier": 177,
+    "rolland": 222
+  },
+  {
+    "bureau_de_vote": "0713 - Bureau de vote 0713",
+    "inscrits": 1087,
+    "procurations": 18,
+    "votants": 628,
+    "nuls": 45,
+    "exprimes": 583,
+    "garnier": 290,
+    "rolland": 293
+  },
+  {
+    "bureau_de_vote": "0101 - Bureau de vote 0101",
+    "inscrits": 1054,
+    "procurations": 17,
+    "votants": 457,
+    "nuls": 13,
+    "exprimes": 444,
+    "garnier": 180,
+    "rolland": 264
+  },
+  {
+    "bureau_de_vote": "1114 - Bureau de vote 1114",
+    "inscrits": 764,
+    "procurations": 8,
+    "votants": 385,
+    "nuls": 17,
+    "exprimes": 368,
+    "garnier": 132,
+    "rolland": 236
+  },
+  {
+    "bureau_de_vote": "0801 - Bureau de vote 0801",
+    "inscrits": 615,
+    "procurations": 3,
+    "votants": 304,
+    "nuls": 28,
+    "exprimes": 276,
+    "garnier": 104,
+    "rolland": 172
+  },
+  {
+    "bureau_de_vote": "0606 - Bureau de vote 0606",
+    "inscrits": 933,
+    "procurations": 23,
+    "votants": 542,
+    "nuls": 44,
+    "exprimes": 498,
+    "garnier": 256,
+    "rolland": 242
+  }
+]
