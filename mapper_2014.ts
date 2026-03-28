@@ -13,7 +13,7 @@ const PARTIS_MAPPING_2014: Record<string, string> = {
   rolland: "PS",
 };
 
-const ROUND = 1;
+const ROUND = 2;
 
 const bureaux = JSON.parse(readFileSync("./bureaux_2014.json", "utf-8"));
 const votes = JSON.parse(readFileSync(`./nantes_2014_${ROUND}.json`, "utf-8"));
