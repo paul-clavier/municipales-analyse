@@ -53,7 +53,7 @@ export default function ElectionMap({ year, round, selectedPartis, mode, valueMo
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch(`/data/nantes_${year}_${round}_mapped.json`)
+    fetch(`${import.meta.env.BASE_URL}data/nantes_${year}_${round}_mapped.json`)
       .then((r) => r.json())
       .then(setData);
   }, [year, round]);

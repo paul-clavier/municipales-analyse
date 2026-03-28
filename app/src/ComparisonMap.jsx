@@ -32,13 +32,13 @@ export default function ComparisonMap({ fromYear, toYear, round, selectedPartis,
   const [toData, setToData] = useState(null);
 
   useEffect(() => {
-    fetch(`/data/nantes_${fromYear}_${round}_mapped.json`)
+    fetch(`${import.meta.env.BASE_URL}data/nantes_${fromYear}_${round}_mapped.json`)
       .then((r) => r.json())
       .then(setFromData);
   }, [fromYear, round]);
 
   useEffect(() => {
-    fetch(`/data/nantes_${toYear}_${round}_mapped.json`)
+    fetch(`${import.meta.env.BASE_URL}data/nantes_${toYear}_${round}_mapped.json`)
       .then((r) => r.json())
       .then(setToData);
   }, [toYear, round]);

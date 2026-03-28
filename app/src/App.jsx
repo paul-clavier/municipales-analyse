@@ -32,7 +32,7 @@ export default function App() {
     async function loadPartis() {
       const partisSet = new Set();
       for (const year of YEARS) {
-        const res = await fetch(`/data/nantes_${year}_${round}_mapped.json`);
+        const res = await fetch(`${import.meta.env.BASE_URL}data/nantes_${year}_${round}_mapped.json`);
         const data = await res.json();
         if (data.length > 0) {
           Object.keys(data[0]).forEach((k) => {
